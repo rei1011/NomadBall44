@@ -6631,7 +6631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:XIAO-nRF52840-Plus-Hole-SMD"
+		(property "Footprint" "footprints:XIAO-nRF52840-Plus-Through-Hole"
 			(at 57.658 50.8 0)
 			(effects
 				(font
