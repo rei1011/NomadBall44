@@ -5,3 +5,4 @@ jlcpcb/
 **/*-backups/*.zip
 _autosave-*
 fp-info-cache
+*.kicad_prl
