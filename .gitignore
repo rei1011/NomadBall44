@@ -1,6 +1,7 @@
 .DS_Store
 jlcpcb/
 *.bak
+*.lck
 **/*-backups/*.zip
 _autosave-*
 fp-info-cache
