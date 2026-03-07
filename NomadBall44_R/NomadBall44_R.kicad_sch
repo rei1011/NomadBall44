@@ -3883,7 +3883,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 173.99 64.77 0)
 			(effects
 				(font
@@ -3953,7 +3953,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 121.92 54.61 0)
 			(effects
 				(font
@@ -4039,7 +4039,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 154.94 26.67 0)
 			(effects
 				(font
@@ -4107,7 +4107,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 193.04 45.72 0)
 			(effects
 				(font
@@ -4159,7 +4159,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15386c63-bfac-41f6-a128-64922579dbc8")
-		(property "Reference" "SW26"
+		(property "Reference" "SW21"
 			(at 142.24 101.6 0)
 			(effects
 				(font
@@ -4220,7 +4220,7 @@
 		(instances
 			(project ""
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "SW26")
+					(reference "SW21")
 					(unit 1)
 				)
 			)
@@ -4320,7 +4320,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 160.02 54.61 0)
 			(effects
 				(font
@@ -4406,7 +4406,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 116.84 45.72 0)
 			(effects
 				(font
@@ -4476,7 +4476,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 121.92 73.66 0)
 			(effects
 				(font
@@ -4561,7 +4561,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 34.29 101.6 0)
 			(effects
 				(font
@@ -4634,7 +4634,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 179.07 54.61 0)
 			(effects
 				(font
@@ -4722,7 +4722,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 217.17 54.61 0)
 			(effects
 				(font
@@ -4808,7 +4808,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 116.84 64.77 0)
 			(effects
 				(font
@@ -4876,7 +4876,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 116.84 26.67 0)
 			(effects
 				(font
@@ -4944,7 +4944,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 135.89 64.77 0)
 			(effects
 				(font
@@ -5014,7 +5014,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 217.17 35.56 0)
 			(effects
 				(font
@@ -5100,7 +5100,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 173.99 26.67 0)
 			(effects
 				(font
@@ -5168,7 +5168,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 135.89 26.67 0)
 			(effects
 				(font
@@ -5236,7 +5236,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 212.09 64.77 0)
 			(effects
 				(font
@@ -5288,7 +5288,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4647920f-ba75-4626-9272-6d3319ac3e67")
-		(property "Reference" "D22"
+		(property "Reference" "D23"
 			(at 200.66 91.4399 90)
 			(effects
 				(font
@@ -5306,7 +5306,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 198.12 92.71 0)
 			(effects
 				(font
@@ -5360,7 +5360,7 @@
 		(instances
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "D22")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -5442,7 +5442,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47aad165-a3df-42c9-bd09-95fa92c36bc3")
-		(property "Reference" "D18"
+		(property "Reference" "D21"
 			(at 162.56 91.4399 90)
 			(effects
 				(font
@@ -5460,7 +5460,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 160.02 92.71 0)
 			(effects
 				(font
@@ -5514,7 +5514,7 @@
 		(instances
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "D18")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -5530,7 +5530,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "489ad883-1479-44a4-a12b-5899866bfa22")
-		(property "Reference" "D16"
+		(property "Reference" "D20"
 			(at 143.51 91.4399 90)
 			(effects
 				(font
@@ -5548,7 +5548,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 140.97 92.71 0)
 			(effects
 				(font
@@ -5602,7 +5602,7 @@
 		(instances
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "D16")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -5834,7 +5834,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5cde4bf8-d200-4141-a90c-29feb8346e48")
-		(property "Reference" "SW21"
+		(property "Reference" "SW22"
 			(at 173.99 81.28 0)
 			(effects
 				(font
@@ -5850,7 +5850,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 173.99 83.82 0)
 			(effects
 				(font
@@ -5886,7 +5886,7 @@
 		(instances
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "SW21")
+					(reference "SW22")
 					(unit 1)
 				)
 			)
@@ -5918,7 +5918,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Kailh_Choc_V1_Hotswap_thin_via"
 			(at 116.84 83.82 0)
 			(effects
 				(font
@@ -5988,7 +5988,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 140.97 35.56 0)
 			(effects
 				(font
@@ -6058,7 +6058,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "608777fd-abf8-463a-ba51-f71185479fb6")
-		(property "Reference" "SW23"
+		(property "Reference" "SW24"
 			(at 212.09 81.28 0)
 			(effects
 				(font
@@ -6074,7 +6074,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 212.09 83.82 0)
 			(effects
 				(font
@@ -6110,7 +6110,7 @@
 		(instances
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "SW23")
+					(reference "SW24")
 					(unit 1)
 				)
 			)
@@ -6142,7 +6142,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 173.99 45.72 0)
 			(effects
 				(font
@@ -6212,7 +6212,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 198.12 35.56 0)
 			(effects
 				(font
@@ -6298,7 +6298,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 212.09 45.72 0)
 			(effects
 				(font
@@ -6582,7 +6582,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 135.89 45.72 0)
 			(effects
 				(font
@@ -6634,7 +6634,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8330a537-b146-42b0-b692-3b4b4074634a")
-		(property "Reference" "D15"
+		(property "Reference" "D14"
 			(at 143.51 72.3899 90)
 			(effects
 				(font
@@ -6652,7 +6652,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 140.97 73.66 0)
 			(effects
 				(font
@@ -6706,7 +6706,7 @@
 		(instances
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "D15")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -6722,7 +6722,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84576a1f-3eb5-418d-82d3-f2b851034297")
-		(property "Reference" "D19"
+		(property "Reference" "D16"
 			(at 181.61 72.3899 90)
 			(effects
 				(font
@@ -6740,7 +6740,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 179.07 73.66 0)
 			(effects
 				(font
@@ -6794,7 +6794,7 @@
 		(instances
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "D19")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -6826,7 +6826,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Kailh_Choc_V1_Hotswap_thin_via"
 			(at 135.89 83.82 0)
 			(effects
 				(font
@@ -6894,7 +6894,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 193.04 26.67 0)
 			(effects
 				(font
@@ -6946,7 +6946,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "93ec52d3-b035-463d-9da3-8d4a1d3c3d76")
-		(property "Reference" "D20"
+		(property "Reference" "D22"
 			(at 181.61 91.4399 90)
 			(effects
 				(font
@@ -6964,7 +6964,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 179.07 92.71 0)
 			(effects
 				(font
@@ -7018,7 +7018,7 @@
 		(instances
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "D20")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -7052,7 +7052,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 179.07 35.56 0)
 			(effects
 				(font
@@ -7122,7 +7122,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d228f3d-4984-4c74-a361-c2c5491b9626")
-		(property "Reference" "D14"
+		(property "Reference" "D19"
 			(at 124.46 91.4399 90)
 			(effects
 				(font
@@ -7140,7 +7140,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 121.92 92.71 0)
 			(effects
 				(font
@@ -7194,7 +7194,7 @@
 		(instances
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "D14")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -7210,7 +7210,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9fa6e976-6bdb-4924-8912-f035d50ef392")
-		(property "Reference" "D17"
+		(property "Reference" "D15"
 			(at 162.56 72.3899 90)
 			(effects
 				(font
@@ -7228,7 +7228,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 160.02 73.66 0)
 			(effects
 				(font
@@ -7282,7 +7282,7 @@
 		(instances
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "D17")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -7314,7 +7314,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 193.04 64.77 0)
 			(effects
 				(font
@@ -7514,7 +7514,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:JST_S2B-PH-SM4-TB"
 			(at 43.434 101.6 90)
 			(effects
 				(font
@@ -7611,7 +7611,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 217.17 92.71 0)
 			(effects
 				(font
@@ -7699,7 +7699,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 121.92 35.56 0)
 			(effects
 				(font
@@ -7787,7 +7787,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 198.12 54.61 0)
 			(effects
 				(font
@@ -7873,7 +7873,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 212.09 26.67 0)
 			(effects
 				(font
@@ -8073,7 +8073,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 154.94 64.77 0)
 			(effects
 				(font
@@ -8191,7 +8191,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5c2a5c0-f160-4108-804c-a5fe8716b416")
-		(property "Reference" "D23"
+		(property "Reference" "D18"
 			(at 219.71 72.3899 90)
 			(effects
 				(font
@@ -8209,7 +8209,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 217.17 73.66 0)
 			(effects
 				(font
@@ -8263,7 +8263,7 @@
 		(instances
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "D23")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -8295,7 +8295,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 154.94 45.72 0)
 			(effects
 				(font
@@ -8347,7 +8347,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "edc79881-cf54-48c5-8429-544cab4a9580")
-		(property "Reference" "SW22"
+		(property "Reference" "SW23"
 			(at 193.04 81.28 0)
 			(effects
 				(font
@@ -8363,7 +8363,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 193.04 83.82 0)
 			(effects
 				(font
@@ -8399,7 +8399,7 @@
 		(instances
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "SW22")
+					(reference "SW23")
 					(unit 1)
 				)
 			)
@@ -8433,7 +8433,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 140.97 54.61 0)
 			(effects
 				(font
@@ -8503,7 +8503,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fbf3df0d-af00-4cd2-9633-39ed17f3c360")
-		(property "Reference" "D21"
+		(property "Reference" "D17"
 			(at 200.66 72.3899 90)
 			(effects
 				(font
@@ -8521,7 +8521,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 198.12 73.66 0)
 			(effects
 				(font
@@ -8575,7 +8575,7 @@
 		(instances
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "D21")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -8609,7 +8609,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NomadBall44:Diode_SMD"
 			(at 160.02 35.56 0)
 			(effects
 				(font
