@@ -5,13 +5,14 @@
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 6.85 8.45 0)
-		(layer "F.Fab")
+		(layer "B.SilkS")
 		(uuid "e7423e7e-f759-435b-8150-db25a5d7f306")
 		(effects
 			(font
 				(size 1 1)
 				(thickness 0.15)
 			)
+			(justify mirror)
 		)
 	)
 	(property "Value" "KEY_SWITCH"
