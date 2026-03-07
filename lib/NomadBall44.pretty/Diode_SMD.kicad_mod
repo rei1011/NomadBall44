@@ -4,15 +4,15 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
-	(property "Reference" "D"
-		(at 3.302 0 0)
+	(property "Reference" "REF**"
+		(at 3 -1 0)
 		(layer "F.Fab")
-		(hide yes)
 		(uuid "9d5b6639-48c4-407c-a55d-e0cd92e852db")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
 			)
 		)
 	)

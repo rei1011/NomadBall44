@@ -3,10 +3,9 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(property "Reference" "SW1"
-		(at -5.08 -6.35 180)
+	(property "Reference" "REF**"
+		(at 0.5 -5.5 180)
 		(layer "F.SilkS")
-		(hide yes)
 		(uuid "563c12e4-8f8c-446c-a11f-94f5aa93b994")
 		(effects
 			(font

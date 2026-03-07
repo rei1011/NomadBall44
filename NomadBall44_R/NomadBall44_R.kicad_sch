@@ -2204,18 +2204,6 @@
 		(uuid "0ac052de-21fc-42a4-a2a5-d99984bb8d34")
 	)
 	(junction
-		(at 179.07 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0fcfbb10-a4a5-435b-8d1d-d3cda473e073")
-	)
-	(junction
-		(at 198.12 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "168a3a1c-b9f8-4858-bbfb-847fd8ed0f28")
-	)
-	(junction
 		(at 187.96 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2244,12 +2232,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2d811b3e-b85f-471c-98ce-94a819a386fc")
-	)
-	(junction
-		(at 207.01 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "305428b1-98af-46ab-9871-ee5819cf982f")
 	)
 	(junction
 		(at 187.96 31.75)
@@ -2396,12 +2378,6 @@
 		(uuid "d82e5832-3921-4194-b711-1183dab6f8cd")
 	)
 	(junction
-		(at 187.96 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dad32a42-ac83-475f-985e-e4d09663bf04")
-	)
-	(junction
 		(at 121.92 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2517,16 +2493,6 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 96.52) (xy 217.17 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c6cb024-fdbd-40ea-a502-f7f3628ff864")
-	)
-	(wire
-		(pts
 			(xy 149.86 31.75) (xy 149.86 50.8)
 		)
 		(stroke
@@ -2544,16 +2510,6 @@
 			(type default)
 		)
 		(uuid "20f82da2-c34d-451c-8e1f-1ad5c23da65b")
-	)
-	(wire
-		(pts
-			(xy 207.01 69.85) (xy 207.01 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "223c43b7-4797-450f-8414-2663dd82aea4")
 	)
 	(wire
 		(pts
@@ -2957,16 +2913,6 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 69.85) (xy 187.96 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0f638c3-19b7-446e-b062-2b44d78cab47")
-	)
-	(wire
-		(pts
 			(xy 207.01 50.8) (xy 207.01 69.85)
 		)
 		(stroke
@@ -3044,16 +2990,6 @@
 			(type default)
 		)
 		(uuid "eed6030f-a496-4da3-8a50-27f53dd4e828")
-	)
-	(wire
-		(pts
-			(xy 179.07 96.52) (xy 198.12 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f88272e6-8d37-4598-a4d4-789dbd79f2ea")
 	)
 	(wire
 		(pts
@@ -4545,7 +4481,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "209117a8-f1bf-4e77-8be4-e00a64e53779")
-		(property "Reference" "SW25"
+		(property "Reference" "SW23"
 			(at 34.29 110.49 0)
 			(effects
 				(font
@@ -4600,7 +4536,7 @@
 		(instances
 			(project ""
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "SW25")
+					(reference "SW23")
 					(unit 1)
 				)
 			)
@@ -5273,94 +5209,6 @@
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
 					(reference "SW18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 198.12 92.71 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4647920f-ba75-4626-9272-6d3319ac3e67")
-		(property "Reference" "D23"
-			(at 200.66 91.4399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 200.66 93.9799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "NomadBall44:Diode_SMD"
-			(at 198.12 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 198.12 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 198.12 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 198.12 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 198.12 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "fd00a327-1272-49bf-8c3b-3da978c05458")
-		)
-		(pin "1"
-			(uuid "e7a4bab6-9b32-4736-a16c-43684c69e6cb")
-		)
-		(instances
-			(project "NomadBall44"
-				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -6043,74 +5891,6 @@
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
 					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 212.09 88.9 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "608777fd-abf8-463a-ba51-f71185479fb6")
-		(property "Reference" "SW24"
-			(at 212.09 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 212.09 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
-			(at 212.09 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 212.09 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 212.09 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b0a3f2e5-ab8f-4fca-890e-1964efb32100")
-		)
-		(pin "1"
-			(uuid "72801d47-d7f7-4498-8264-994b23a0f187")
-		)
-		(instances
-			(project "NomadBall44"
-				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "SW24")
 					(unit 1)
 				)
 			)
@@ -7585,94 +7365,6 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 217.17 92.71 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b48e0845-e567-4d72-a16c-e197b78015dc")
-		(property "Reference" "D24"
-			(at 219.71 91.4399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 219.71 93.9799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "NomadBall44:Diode_SMD"
-			(at 217.17 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 217.17 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 217.17 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 217.17 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 217.17 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6f10d95d-bb81-41cc-8460-9e2058fad00a")
-		)
-		(pin "1"
-			(uuid "d2b07cf6-68f7-46e3-b2dd-4f9d6a6d27ac")
-		)
-		(instances
-			(project "NomadBall44"
-				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "D24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
 		(at 121.92 35.56 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8332,74 +8024,6 @@
 			(project "NomadBall44"
 				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
 					(reference "SW9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 193.04 88.9 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "edc79881-cf54-48c5-8429-544cab4a9580")
-		(property "Reference" "SW23"
-			(at 193.04 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 193.04 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
-			(at 193.04 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 193.04 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 193.04 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6a3f8353-e1a4-49fd-8023-efb6f627e07d")
-		)
-		(pin "1"
-			(uuid "9c78cbca-df5a-4e36-b3d7-0d4416bada94")
-		)
-		(instances
-			(project "NomadBall44"
-				(path "/38cd73c2-0f02-46d6-8737-9a3d3a6a6bf8"
-					(reference "SW23")
 					(unit 1)
 				)
 			)
