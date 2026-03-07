@@ -4561,7 +4561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
+		(property "Footprint" "NomadBall44:TGSW_MSK-12D19"
 			(at 34.29 101.6 0)
 			(effects
 				(font
