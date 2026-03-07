@@ -6548,7 +6548,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:pmw3610_connector"
+		(property "Footprint" "footprints:pmw3610_connector"
 			(at 72.39 110.49 0)
 			(effects
 				(font
