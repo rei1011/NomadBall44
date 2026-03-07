@@ -130,7 +130,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "02552c3f-b0b5-4977-be5a-12431924d697")
-		(at 44.995288 95.511959 10)
+		(at 97.275288 116.161959 10)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D20"
 			(at 3 -1 10)
@@ -307,7 +307,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "07828e50-c90e-4911-86cb-a94552f0beaa")
-		(at 73.193438 64.86)
+		(at 125.473438 85.51)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D14"
 			(at 3 -1 0)
@@ -484,7 +484,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "0da9907f-cbb1-4929-80e4-785e71c6892b")
-		(at 111.563438 67.48)
+		(at 163.843438 88.13)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D16"
 			(at 3 -1 0)
@@ -661,7 +661,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "0ef35dc8-5c5d-4a6a-b282-109dfb7d94fa")
-		(at 149.876875 53.9)
+		(at 202.156875 74.55)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D12"
 			(at 3 -1 0)
@@ -838,7 +838,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "15cbc434-93bb-4f07-ba24-0bf9e6838a87")
-		(at 111.546875 29.14)
+		(at 163.826875 49.79)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D4"
 			(at 3 -1 0)
@@ -1015,7 +1015,7 @@
 	(footprint "NomadBall44:TGSW_MSK-12D19"
 		(layer "F.Cu")
 		(uuid "1d5dcef4-5ee8-4f5e-b1c7-790f7ed33610")
-		(at 35.34 59.76 -90)
+		(at 87.57 84.9 -90)
 		(property "Reference" "SW23"
 			(at 0 -2 90)
 			(layer "F.Fab")
@@ -1159,7 +1159,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "221e4e51-c431-4670-a993-469ad1ca68e9")
-		(at 120.54 34.36)
+		(at 172.82 55.01)
 		(property "Reference" "SW4"
 			(at 0.5175 -5.5 180)
 			(layer "B.SilkS")
@@ -2229,7 +2229,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "286da947-aa48-416c-80ec-daeb0176c561")
-		(at 53.993438 28.73)
+		(at 106.273438 49.38)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D1"
 			(at 3 -1 180)
@@ -2406,7 +2406,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "2e95633f-402e-4d80-9ca1-d1dc05ee6dae")
-		(at 139.64 59.15)
+		(at 191.92 79.8)
 		(property "Reference" "SW11"
 			(at 0.48 -5.5 180)
 			(layer "B.SilkS")
@@ -3476,7 +3476,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "3d937060-7bdf-41aa-bdc1-b94b31b8a197")
-		(at 120.54 72.7)
+		(at 172.82 93.35)
 		(property "Reference" "SW16"
 			(at 0.4975 -5.5 180)
 			(layer "B.SilkS")
@@ -4546,7 +4546,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "401f981e-3c7f-46b7-89f3-eaedb2dfe719")
-		(at 130.643438 92.12)
+		(at 182.923438 112.77)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D22"
 			(at 3 -1 0)
@@ -4723,7 +4723,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "45bd3318-0392-4c8a-b260-ff1617bd0d3e")
-		(at 73.173438 26.48)
+		(at 125.453438 47.13)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D2"
 			(at 3 -1 0)
@@ -4900,7 +4900,7 @@
 	(footprint "NomadBall44:pmw3610_connector"
 		(layer "F.Cu")
 		(uuid "47057157-e204-495a-ab0c-4c426d0bb1b4")
-		(at 122.99 96.26)
+		(at 175.27 116.91)
 		(property "Reference" "J1"
 			(at 0 -0.5 0)
 			(unlocked yes)
@@ -5150,7 +5150,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "540cf217-bab4-405b-87a9-e2a82de3183c")
-		(at 139.64 39.945)
+		(at 191.92 60.595)
 		(property "Reference" "SW5"
 			(at 0.48 -5.5 180)
 			(layer "B.SilkS")
@@ -6220,7 +6220,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "542d237b-2b70-4f83-8896-f1cfbafc6b10")
-		(at 158.823437 78.33)
+		(at 211.103437 98.98)
 		(property "Reference" "SW18"
 			(at 0.5 -5.5 0)
 			(layer "B.SilkS")
@@ -7290,7 +7290,7 @@
 	(footprint "NomadBall44:XIAO-nRF52840-Plus"
 		(layer "F.Cu")
 		(uuid "55af06b3-cebc-4335-b6cb-cdab219cf697")
-		(at 43.065 39.66 90)
+		(at 95.375 60.32 90)
 		(property "Reference" "U1"
 			(at 11.225 -0.075 0)
 			(unlocked yes)
@@ -8347,7 +8347,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "5b97bffc-6261-4a4b-8450-b65ccf48b127")
-		(at 101.34 48.56)
+		(at 153.62 69.21)
 		(property "Reference" "SW9"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
@@ -9417,7 +9417,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "606328d0-bdb0-4d29-af34-f170e3e650d1")
-		(at 130.676875 34.75)
+		(at 182.956875 55.4)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D5"
 			(at 3 -1 0)
@@ -9594,7 +9594,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "68a26da9-2fcc-40a6-bf8c-84e550c539c1")
-		(at 73.163438 45.67)
+		(at 125.443438 66.32)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D8"
 			(at 3 -1 0)
@@ -9771,7 +9771,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "6cfe69b8-0807-4297-a013-1111306bfc8b")
-		(at 101.34 67.725)
+		(at 153.62 88.375)
 		(property "Reference" "SW15"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
@@ -10841,7 +10841,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "6f1dd9be-1a0d-4764-9fd6-a566e9c93dd2")
-		(at 92.363438 62.51)
+		(at 144.643438 83.16)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D15"
 			(at 3 -1 0)
@@ -11018,7 +11018,7 @@
 	(footprint "NomadBall44:Kailh_Choc_V1_Hotswap_thin_via"
 		(layer "F.Cu")
 		(uuid "75b8d713-4bf3-41f9-8c76-4abf36990fac")
-		(at 54.734098 99.124445 10)
+		(at 107.014098 119.774445 10)
 		(property "Reference" "SW20"
 			(at 6.206103 8.431324 10)
 			(layer "B.SilkS")
@@ -11927,7 +11927,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "7a373fd7-4893-4112-8aa0-c5700756c33f")
-		(at 53.993438 47.91)
+		(at 106.273438 68.56)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D7"
 			(at 3 -1 0)
@@ -12104,7 +12104,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "7e5f0ad8-4ec7-4aff-a364-30fd2b188ae9")
-		(at 36.273438 65.96)
+		(at 97.893438 90.18)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D21"
 			(at 3 -1 0)
@@ -12281,7 +12281,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "8948f5b4-89a5-4977-9fa1-7b1214885d88")
-		(at 158.823437 59.15)
+		(at 211.103437 79.8)
 		(property "Reference" "SW12"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
@@ -13351,7 +13351,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "8e9044bb-1415-4459-b74f-7e0ff2de4431")
-		(at 130.676875 53.93)
+		(at 182.956875 74.58)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D11"
 			(at 3 -1 0)
@@ -13528,7 +13528,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "8fea259f-a1ac-4fb1-88c1-cb28920041c1")
-		(at 82.15 31.71)
+		(at 134.43 52.36)
 		(property "Reference" "SW2"
 			(at 0.54 -5.5 180)
 			(layer "B.SilkS")
@@ -14598,7 +14598,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "90b40411-23de-4224-baa7-775c0da921ae")
-		(at 62.970625 53.135)
+		(at 115.250625 73.785)
 		(property "Reference" "SW7"
 			(at 0.50625 -5.5 180)
 			(layer "B.SilkS")
@@ -15668,7 +15668,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "94c4784b-5b7a-4ec7-b17e-b195682f9375")
-		(at 130.646875 73.12)
+		(at 182.926875 93.77)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D17"
 			(at 3 -1 0)
@@ -15845,7 +15845,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "94fd7e2c-97e5-4481-a06a-d6b82f7fa9dd")
-		(at 24.376086 102.410175 20)
+		(at 76.656086 123.060175 20)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D19"
 			(at 3 -1 20)
@@ -16022,13 +16022,13 @@
 	(footprint "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm"
 		(layer "F.Cu")
 		(uuid "95214779-1d90-49c1-8f4f-d7944e67818e")
-		(at 35.65 73.06)
+		(at 87.91 97.28)
 		(descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF")
 		(tags "rotary encoder")
 		(property "Reference" "SW21"
 			(at 2.8 -4.7 0)
 			(layer "F.SilkS")
-			(uuid "1b711666-2c9c-4abf-bbc2-c344f179a9cb")
+			(uuid "79057546-38d2-4d0b-b0db-ba5bd4bd72da")
 			(effects
 				(font
 					(size 1 1)
@@ -16039,7 +16039,7 @@
 		(property "Value" "RotaryEncoder_Switch"
 			(at 7.5 10.4 0)
 			(layer "F.Fab")
-			(uuid "37c29282-3d9e-49ef-a022-a02e1f4f7fd0")
+			(uuid "deeb5a83-44d7-4f36-8aff-e7881abfb3e5")
 			(effects
 				(font
 					(size 1 1)
@@ -16052,7 +16052,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a29df52d-d94e-46e1-be47-6a6518f4cebd")
+			(uuid "2a939226-bbe9-4b59-95a6-20414af7d2d2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16065,7 +16065,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a77a3031-1048-4302-ba50-e2d8e731c914")
+			(uuid "a329982d-b021-46f1-8625-8ed762d5ebc0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16448,7 +16448,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "9852cfc7-3cdd-4d65-bb12-1a3971df0cc9")
-		(at 82.15 70.095)
+		(at 134.43 90.745)
 		(property "Reference" "SW14"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
@@ -17518,7 +17518,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "986473fd-2b1e-4fe8-a69f-d6fc732417f4")
-		(at 158.823437 39.945)
+		(at 211.103437 60.595)
 		(property "Reference" "SW6"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
@@ -18588,7 +18588,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "9aa1234c-07d3-4ef6-b046-bb91b3204866")
-		(at 92.363438 24.14)
+		(at 144.643438 44.79)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D3"
 			(at 3 -1 0)
@@ -18765,7 +18765,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "a8f713c4-ca05-4439-a133-6dd1595c91de")
-		(at 111.553438 48.32)
+		(at 163.833438 68.97)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D10"
 			(at 3 -1 0)
@@ -18942,7 +18942,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "afcf76d3-4a1d-43fe-a324-1bfb93c7f709")
-		(at 82.15 50.9)
+		(at 134.43 71.55)
 		(property "Reference" "SW8"
 			(at 0.545 -5.5 180)
 			(layer "B.SilkS")
@@ -20012,7 +20012,7 @@
 	(footprint "NomadBall44:Kailh_Choc_V1_Hotswap_thin_via"
 		(layer "F.Cu")
 		(uuid "b50d0dc6-97dc-41cc-86a7-304dd94b715e")
-		(at 34.6 104.27 20)
+		(at 86.88 124.92 20)
 		(property "Reference" "SW19"
 			(at 6.85 8.45 20)
 			(layer "B.SilkS")
@@ -20922,7 +20922,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "b94373a0-dc30-4910-8290-28b68bee2037")
-		(at 149.846875 73.1)
+		(at 202.126875 93.75)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D18"
 			(at 3 -1 0)
@@ -21099,7 +21099,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "c27fb84d-3e79-48cb-b202-10e70730d451")
-		(at 149.866875 34.7)
+		(at 202.146875 55.35)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D6"
 			(at 3 -1 0)
@@ -21276,7 +21276,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "d01a1a4d-d403-4d4e-ad3c-ee8cfd44af2c")
-		(at 120.54 53.555)
+		(at 172.82 74.205)
 		(property "Reference" "SW10"
 			(at 0.5025 -5.5 180)
 			(layer "B.SilkS")
@@ -22346,7 +22346,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "d550c520-8d96-426d-a4ae-7abf810e346e")
-		(at 139.64 97.38)
+		(at 191.92 118.03)
 		(property "Reference" "SW22"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
@@ -23416,7 +23416,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "db0b06d1-b5e9-41fc-a373-57c19479833e")
-		(at 62.970625 72.325)
+		(at 115.250625 92.975)
 		(property "Reference" "SW13"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
@@ -24486,7 +24486,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "dc038e39-0879-4ef1-80d8-5cb390f4d62d")
-		(at 53.983438 67.1)
+		(at 106.263438 87.75)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D13"
 			(at 3 -1 0)
@@ -24663,7 +24663,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "e2e1686a-def0-4f0f-8a49-253fc277ffb9")
-		(at 62.970625 33.96)
+		(at 115.250625 54.61)
 		(property "Reference" "SW1"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
@@ -25733,7 +25733,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "e6503ccc-ed86-420a-a8aa-b051bec49e1b")
-		(at 139.64 78.33)
+		(at 191.92 98.98)
 		(property "Reference" "SW17"
 			(at 0.52 -5.5 0)
 			(layer "B.SilkS")
@@ -26803,7 +26803,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "ed27c3e7-edaa-4951-8887-6000c2826e35")
-		(at 101.34 29.37)
+		(at 153.62 50.02)
 		(property "Reference" "SW3"
 			(at 0.48 -5.5 180)
 			(layer "B.SilkS")
@@ -27873,7 +27873,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "f55d207a-259a-4d6f-b4b0-9e708ea55ece")
-		(at 92.373438 43.34)
+		(at 144.653438 63.99)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D9"
 			(at 3 -1 0)
@@ -28050,7 +28050,7 @@
 	(footprint "NomadBall44:JST_S2B-PH-SM4-TB"
 		(layer "B.Cu")
 		(uuid "12106843-46d6-436d-acca-d2d7c4975270")
-		(at 43.23 55.225 180)
+		(at 95.51 75.875 180)
 		(property "Reference" "BT1"
 			(at -1.32682 8.89729 0)
 			(layer "B.SilkS")
@@ -28329,9 +28329,9 @@
 		)
 	)
 	(gr_arc
-		(start 110.822892 24.762896)
-		(mid 110.115785 24.470003)
-		(end 109.822892 23.762896)
+		(start 163.102892 45.412896)
+		(mid 162.395785 45.120003)
+		(end 162.102892 44.412896)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28340,8 +28340,8 @@
 		(uuid "026f3b3a-a59f-46ba-af45-dd6f627a4412")
 	)
 	(gr_line
-		(start 27.708666 115.880838)
-		(end 22.221981 100.797504)
+		(start 79.988666 136.530838)
+		(end 74.501981 121.447504)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28350,9 +28350,9 @@
 		(uuid "02d7a8a8-fab6-41b6-89ad-8f5005db4ed0")
 	)
 	(gr_arc
-		(start 120.984264 106.962893)
-		(mid 120.630711 106.816446)
-		(end 120.484264 106.462893)
+		(start 173.264264 127.612893)
+		(mid 172.910711 127.466446)
+		(end 172.764264 127.112893)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28361,8 +28361,8 @@
 		(uuid "073f249f-7be0-4633-8333-10f2eaceebf5")
 	)
 	(gr_line
-		(start 22.819893 99.515903)
-		(end 32.568792 95.969663)
+		(start 75.099893 120.165903)
+		(end 84.848792 116.619663)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28371,8 +28371,8 @@
 		(uuid "164c7815-2e81-4222-bb28-163da3c531e0")
 	)
 	(gr_line
-		(start 128.872892 25.762896)
-		(end 128.872892 30.762896)
+		(start 181.152892 46.412896)
+		(end 181.152892 51.412896)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28381,8 +28381,8 @@
 		(uuid "17b33737-4774-478a-8134-611935c14d0c")
 	)
 	(gr_line
-		(start 53.378639 28.060974)
-		(end 53.374812 26.064808)
+		(start 105.658639 48.710974)
+		(end 105.654812 46.714808)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28391,9 +28391,9 @@
 		(uuid "17c20414-ea0f-4426-b890-ce67a6f5cc96")
 	)
 	(gr_arc
-		(start 61.745244 89.627852)
-		(mid 61.699696 89.281882)
-		(end 61.684475 88.933259)
+		(start 114.025244 110.277852)
+		(mid 113.979696 109.931882)
+		(end 113.964475 109.583259)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28402,9 +28402,9 @@
 		(uuid "2483f823-f433-4798-8c47-ddf4540a9fab")
 	)
 	(gr_arc
-		(start 166.972893 86.912894)
-		(mid 166.68 87.620001)
-		(end 165.972893 87.912894)
+		(start 219.252893 107.562894)
+		(mid 218.96 108.270001)
+		(end 218.252893 108.562894)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28413,9 +28413,9 @@
 		(uuid "26d92e6b-408a-4539-be29-d078adcbf14e")
 	)
 	(gr_arc
-		(start 48.276946 36.562892)
-		(mid 48.130499 36.916445)
-		(end 47.776946 37.062892)
+		(start 100.556946 57.212892)
+		(mid 100.410499 57.566445)
+		(end 100.056946 57.712892)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28424,8 +28424,8 @@
 		(uuid "288c75cc-ea8c-4491-bc06-40a594c5dc86")
 	)
 	(gr_line
-		(start 70.999757 81.262894)
-		(end 63.884475 81.262894)
+		(start 123.279757 101.912894)
+		(end 116.164475 101.912894)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28434,8 +28434,8 @@
 		(uuid "2accfceb-2f64-4b10-bf75-593344ab76a0")
 	)
 	(gr_line
-		(start 37.976946 37.062892)
-		(end 47.776946 37.062892)
+		(start 90.256946 57.712892)
+		(end 100.056946 57.712892)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28444,8 +28444,8 @@
 		(uuid "3a048731-ecf8-4803-9f20-6734015c443d")
 	)
 	(gr_line
-		(start 110.822892 24.762896)
-		(end 127.872892 24.762896)
+		(start 163.102892 45.412896)
+		(end 180.152892 45.412896)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28454,8 +28454,8 @@
 		(uuid "40c33180-3dc3-46bf-86f3-f9b9ac7fd2eb")
 	)
 	(gr_line
-		(start 146.922893 106.962893)
-		(end 120.984264 106.962893)
+		(start 199.202893 127.612893)
+		(end 173.264264 127.612893)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28464,8 +28464,8 @@
 		(uuid "44dec3f8-8271-4407-a2d0-fc0d33b1e4b1")
 	)
 	(gr_line
-		(start 147.922893 88.912894)
-		(end 147.922893 105.962893)
+		(start 200.202893 109.562894)
+		(end 200.202893 126.612893)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28474,8 +28474,8 @@
 		(uuid "4b1fdeda-542f-47e5-8dea-b2c7db2bb4a5")
 	)
 	(gr_line
-		(start 61.745244 89.627852)
-		(end 64.645958 106.078615)
+		(start 114.025244 110.277852)
+		(end 116.925958 126.728615)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28484,8 +28484,8 @@
 		(uuid "4c3624d6-5ad3-41f8-91ec-f43e3fd3b3d9")
 	)
 	(gr_line
-		(start 129.872892 31.762896)
-		(end 146.74231 31.762896)
+		(start 182.152892 52.412896)
+		(end 199.02231 52.412896)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28494,8 +28494,8 @@
 		(uuid "4cbce67a-b3da-439d-b7ee-fd3d8957173e")
 	)
 	(gr_line
-		(start 49.526946 29.062891)
-		(end 52.378641 29.062891)
+		(start 101.806946 49.712891)
+		(end 104.658641 49.712891)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28504,9 +28504,9 @@
 		(uuid "4dff283a-6289-4fe7-b474-822adb6dc8be")
 	)
 	(gr_arc
-		(start 165.972893 31.762874)
-		(mid 166.68 32.055767)
-		(end 166.972893 32.762874)
+		(start 218.252893 52.412874)
+		(mid 218.96 52.705767)
+		(end 219.252893 53.412874)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28515,8 +28515,8 @@
 		(uuid "50982e63-257a-43a5-9177-2f71bc077da4")
 	)
 	(gr_line
-		(start 119.484264 82.212894)
-		(end 111.014324 82.212894)
+		(start 171.764264 102.862894)
+		(end 163.294324 102.862894)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28525,8 +28525,8 @@
 		(uuid "58ceba13-6b05-437b-8254-509f34a818ae")
 	)
 	(gr_line
-		(start 72.722894 24.062891)
-		(end 72.722894 23.562896)
+		(start 125.002894 44.712891)
+		(end 125.002894 44.212896)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28535,8 +28535,8 @@
 		(uuid "5cbd58f9-95f3-426e-a9dc-098392ca4582")
 	)
 	(gr_line
-		(start 120.484264 106.462893)
-		(end 120.484264 83.212894)
+		(start 172.764264 127.112893)
+		(end 172.764264 103.862894)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28545,8 +28545,8 @@
 		(uuid "5e8843cc-9343-45a0-95f2-a4cd921cd0c2")
 	)
 	(gr_line
-		(start 33.226948 95.029906)
-		(end 33.226946 30.062892)
+		(start 85.506948 115.679906)
+		(end 85.506946 50.712892)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28555,9 +28555,9 @@
 		(uuid "5f223c5d-2095-45f2-9c31-675fddd14a97")
 	)
 	(gr_arc
-		(start 127.872892 24.762896)
-		(mid 128.579999 25.055789)
-		(end 128.872892 25.762896)
+		(start 180.152892 45.412896)
+		(mid 180.859999 45.705789)
+		(end 181.152892 46.412896)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28566,9 +28566,9 @@
 		(uuid "6432b4f1-b082-41f7-9ad2-d6a3ae5e789b")
 	)
 	(gr_arc
-		(start 91.772894 21.562896)
-		(mid 91.480001 22.270003)
-		(end 90.772894 22.562896)
+		(start 144.052894 42.212896)
+		(mid 143.760001 42.920003)
+		(end 143.052894 43.212896)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28577,8 +28577,8 @@
 		(uuid "6473531e-f9e5-4d86-891d-fd78b5f95bcd")
 	)
 	(gr_line
-		(start 92.772894 20.062896)
-		(end 108.822892 20.062896)
+		(start 145.052894 40.712896)
+		(end 161.102892 40.712896)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28587,9 +28587,9 @@
 		(uuid "64c09b84-eecb-42da-b6e8-9653b4b34c1d")
 	)
 	(gr_arc
-		(start 33.226948 95.029906)
-		(mid 33.046046 95.603559)
-		(end 32.568792 95.969663)
+		(start 85.506948 115.679906)
+		(mid 85.326046 116.253559)
+		(end 84.848792 116.619663)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28598,9 +28598,9 @@
 		(uuid "65ef5839-8337-4772-81e0-c9582a12d7f9")
 	)
 	(gr_arc
-		(start 48.276946 30.062891)
-		(mid 48.569839 29.355784)
-		(end 49.276946 29.062891)
+		(start 100.556946 50.712891)
+		(mid 100.849839 50.005784)
+		(end 101.556946 49.712891)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28609,8 +28609,8 @@
 		(uuid "6b3c6905-db3f-437e-93dc-d844b4e30e61")
 	)
 	(gr_line
-		(start 166.972893 32.762874)
-		(end 166.972893 86.912894)
+		(start 219.252893 53.412874)
+		(end 219.252893 107.562894)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28619,9 +28619,9 @@
 		(uuid "6d4f3a64-c8fc-4acd-9ad5-2f73817f260d")
 	)
 	(gr_arc
-		(start 108.822892 20.062896)
-		(mid 109.529999 20.355789)
-		(end 109.822892 21.062896)
+		(start 161.102892 40.712896)
+		(mid 161.809999 41.005789)
+		(end 162.102892 41.712896)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28630,8 +28630,8 @@
 		(uuid "6d892714-48ee-4fc2-8b54-a4b93f34c9ed")
 	)
 	(gr_line
-		(start 146.74231 31.762874)
-		(end 165.972893 31.762874)
+		(start 199.02231 52.412874)
+		(end 218.252893 52.412874)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28640,8 +28640,8 @@
 		(uuid "7518e475-58f9-43e4-b383-f6cf08a776df")
 	)
 	(gr_line
-		(start 63.835181 107.237003)
-		(end 45.735452 110.435733)
+		(start 116.115181 127.887003)
+		(end 98.015452 131.085733)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28650,9 +28650,9 @@
 		(uuid "76690a66-e327-46f3-bb76-5d5966aeda78")
 	)
 	(gr_arc
-		(start 61.684475 83.462894)
-		(mid 62.32884 81.907259)
-		(end 63.884475 81.262894)
+		(start 113.964475 104.112894)
+		(mid 114.60884 102.557259)
+		(end 116.164475 101.912894)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28661,8 +28661,8 @@
 		(uuid "80f4df69-0ed5-4717-bb47-0d14e8bf121e")
 	)
 	(gr_line
-		(start 109.822892 21.062896)
-		(end 109.822892 23.762896)
+		(start 162.102892 41.712896)
+		(end 162.102892 44.412896)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28671,9 +28671,9 @@
 		(uuid "8499a39e-7ae9-41c5-a06c-ad48487399a4")
 	)
 	(gr_arc
-		(start 109.014324 79.712895)
-		(mid 109.721431 80.005788)
-		(end 110.014324 80.712895)
+		(start 161.294324 100.362895)
+		(mid 162.001431 100.655788)
+		(end 162.294324 101.362895)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28682,8 +28682,8 @@
 		(uuid "856503a1-fa97-4d1e-862b-29d1f1d16d97")
 	)
 	(gr_line
-		(start 165.972893 87.912894)
-		(end 148.922893 87.912894)
+		(start 218.252893 108.562894)
+		(end 201.202893 108.562894)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28692,8 +28692,8 @@
 		(uuid "8a171c3c-92fc-4b00-ba1d-cd066dee5437")
 	)
 	(gr_line
-		(start 91.772894 21.562896)
-		(end 91.772894 21.062896)
+		(start 144.052894 42.212896)
+		(end 144.052894 41.712896)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28702,8 +28702,8 @@
 		(uuid "8ab964bd-bcf4-43a0-91ac-836311e3d46e")
 	)
 	(gr_line
-		(start 146.74231 31.762896)
-		(end 146.74231 31.762874)
+		(start 199.02231 52.412896)
+		(end 199.02231 52.412874)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28712,8 +28712,8 @@
 		(uuid "8f65c3f6-a540-44ff-9f17-a2abc4868011")
 	)
 	(gr_line
-		(start 109.014324 79.712895)
-		(end 72.693126 79.712895)
+		(start 161.294324 100.362895)
+		(end 124.973126 100.362895)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28722,9 +28722,9 @@
 		(uuid "92ea09bb-032a-4673-baa9-fc8dfdb12b3a")
 	)
 	(gr_arc
-		(start 71.697027 80.624659)
-		(mid 71.472391 81.079245)
-		(end 70.999757 81.262894)
+		(start 123.977027 101.274659)
+		(mid 123.752391 101.729245)
+		(end 123.279757 101.912894)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28733,9 +28733,9 @@
 		(uuid "9527c596-f553-4440-b261-5d62706197e9")
 	)
 	(gr_arc
-		(start 37.976946 37.062892)
-		(mid 37.623393 36.916445)
-		(end 37.476946 36.562892)
+		(start 90.256946 57.712892)
+		(mid 89.903393 57.566445)
+		(end 89.756946 57.212892)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28744,9 +28744,9 @@
 		(uuid "98d6a25a-acd8-4c50-a104-69bc88988e3f")
 	)
 	(gr_arc
-		(start 119.484264 82.212894)
-		(mid 120.191371 82.505787)
-		(end 120.484264 83.212894)
+		(start 171.764264 102.862894)
+		(mid 172.471371 103.155787)
+		(end 172.764264 103.862894)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28755,8 +28755,8 @@
 		(uuid "9c246339-6048-4f07-80ab-278da8bc3662")
 	)
 	(gr_line
-		(start 110.014324 81.212894)
-		(end 110.014324 80.712895)
+		(start 162.294324 101.862894)
+		(end 162.294324 101.362895)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28765,8 +28765,8 @@
 		(uuid "9e2febf2-b213-427e-b273-dd5e49b64ce4")
 	)
 	(gr_line
-		(start 49.276946 29.062891)
-		(end 49.526946 29.062891)
+		(start 101.556946 49.712891)
+		(end 101.806946 49.712891)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28775,8 +28775,8 @@
 		(uuid "9fcae7d9-ae87-4364-872d-1474353827b9")
 	)
 	(gr_line
-		(start 34.226946 29.062892)
-		(end 36.726946 29.062892)
+		(start 86.506946 49.712892)
+		(end 89.006946 49.712892)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28785,9 +28785,9 @@
 		(uuid "a31b892b-cfe8-4d2e-96c8-d137c2cfe487")
 	)
 	(gr_arc
-		(start 147.922893 88.912894)
-		(mid 148.215786 88.205787)
-		(end 148.922893 87.912894)
+		(start 200.202893 109.562894)
+		(mid 200.495786 108.855787)
+		(end 201.202893 108.562894)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28796,9 +28796,9 @@
 		(uuid "a4db1c0b-f421-473c-9e71-8fc7ed09bd9f")
 	)
 	(gr_arc
-		(start 72.722894 24.062891)
-		(mid 72.430001 24.769998)
-		(end 71.722894 25.062891)
+		(start 125.002894 44.712891)
+		(mid 124.710001 45.419998)
+		(end 124.002894 45.712891)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28807,9 +28807,9 @@
 		(uuid "a70812ce-6978-4351-9ccf-1e9efd36386b")
 	)
 	(gr_arc
-		(start 111.014324 82.212894)
-		(mid 110.307217 81.920001)
-		(end 110.014324 81.212894)
+		(start 163.294324 102.862894)
+		(mid 162.587217 102.570001)
+		(end 162.294324 101.862894)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28818,8 +28818,8 @@
 		(uuid "ab0f7836-3584-4732-9708-5e29573d61a2")
 	)
 	(gr_line
-		(start 73.722894 22.562896)
-		(end 90.772894 22.562896)
+		(start 126.002894 43.212896)
+		(end 143.052894 43.212896)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28828,8 +28828,8 @@
 		(uuid "ac47ffe5-11d1-4059-a94b-7745d18aae3c")
 	)
 	(gr_line
-		(start 45.232014 110.570683)
-		(end 28.990267 116.478751)
+		(start 97.512014 131.220683)
+		(end 81.270267 137.128751)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28838,9 +28838,9 @@
 		(uuid "b41c9f1b-ed51-4d99-bcff-1c0ea6556985")
 	)
 	(gr_arc
-		(start 71.697026 80.624659)
-		(mid 72.017935 79.975251)
-		(end 72.693126 79.712895)
+		(start 123.977026 101.274659)
+		(mid 124.297935 100.625251)
+		(end 124.973126 100.362895)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28849,9 +28849,9 @@
 		(uuid "b9ad6be2-b6fe-4b91-81d3-5c8d956c3c8b")
 	)
 	(gr_arc
-		(start 53.374812 26.064808)
-		(mid 53.667026 25.356462)
-		(end 54.37481 25.062891)
+		(start 105.654812 46.714808)
+		(mid 105.947026 46.006462)
+		(end 106.65481 45.712891)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28860,9 +28860,9 @@
 		(uuid "c75ca605-c3de-49d5-baa5-78fceb719791")
 	)
 	(gr_arc
-		(start 45.232013 110.570683)
-		(mid 45.480796 110.492254)
-		(end 45.735452 110.435733)
+		(start 97.512013 131.220683)
+		(mid 97.760796 131.142254)
+		(end 98.015452 131.085733)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28871,8 +28871,8 @@
 		(uuid "cdc0a5d4-6d9b-43e5-894f-7cded782a1d2")
 	)
 	(gr_line
-		(start 37.476946 30.031137)
-		(end 37.476946 36.562892)
+		(start 89.756946 50.681137)
+		(end 89.756946 57.212892)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28881,9 +28881,9 @@
 		(uuid "d2b1acd2-d136-4499-a358-4c3254f9bcc0")
 	)
 	(gr_arc
-		(start 147.922893 105.962893)
-		(mid 147.63 106.67)
-		(end 146.922893 106.962893)
+		(start 200.202893 126.612893)
+		(mid 199.91 127.32)
+		(end 199.202893 127.612893)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28892,8 +28892,8 @@
 		(uuid "d37bac3b-c14d-4a81-8788-5caa7378b35a")
 	)
 	(gr_line
-		(start 61.684475 83.462894)
-		(end 61.684475 88.933259)
+		(start 113.964475 104.112894)
+		(end 113.964475 109.583259)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28902,9 +28902,9 @@
 		(uuid "d8f4f031-e209-4a7f-b5c7-fa3ad23745a9")
 	)
 	(gr_arc
-		(start 36.726946 29.062891)
-		(mid 37.267516 29.418764)
-		(end 37.476946 30.031137)
+		(start 89.006946 49.712891)
+		(mid 89.547516 50.068764)
+		(end 89.756946 50.681137)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28913,9 +28913,9 @@
 		(uuid "da449e93-ab69-45a1-9d62-6a5d09b83e25")
 	)
 	(gr_arc
-		(start 129.872892 31.762896)
-		(mid 129.165785 31.470003)
-		(end 128.872892 30.762896)
+		(start 182.152892 52.412896)
+		(mid 181.445785 52.120003)
+		(end 181.152892 51.412896)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28924,9 +28924,9 @@
 		(uuid "da64241a-9b48-4fdd-8370-ebbde7d7c862")
 	)
 	(gr_arc
-		(start 91.772894 21.062896)
-		(mid 92.065787 20.355789)
-		(end 92.772894 20.062896)
+		(start 144.052894 41.712896)
+		(mid 144.345787 41.005789)
+		(end 145.052894 40.712896)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28935,8 +28935,8 @@
 		(uuid "ddb5d234-50cb-49b2-8bdd-a51100f2eb8b")
 	)
 	(gr_line
-		(start 54.37481 25.062891)
-		(end 71.722894 25.062891)
+		(start 106.65481 45.712891)
+		(end 124.002894 45.712891)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28945,9 +28945,9 @@
 		(uuid "e59d724e-d12c-4e59-b82f-d15b5e5b898f")
 	)
 	(gr_arc
-		(start 64.645958 106.078615)
-		(mid 64.480414 106.82568)
-		(end 63.835181 107.237003)
+		(start 116.925958 126.728615)
+		(mid 116.760414 127.47568)
+		(end 116.115181 127.887003)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28956,9 +28956,9 @@
 		(uuid "e614519f-7c58-447f-8bc1-b2a1eeae84cc")
 	)
 	(gr_arc
-		(start 33.226946 30.062892)
-		(mid 33.519839 29.355785)
-		(end 34.226946 29.062892)
+		(start 85.506946 50.712892)
+		(mid 85.799839 50.005785)
+		(end 86.506946 49.712892)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28967,9 +28967,9 @@
 		(uuid "e9d35be0-1182-4dbe-8080-5b779ee26250")
 	)
 	(gr_arc
-		(start 22.22198 100.797504)
-		(mid 22.255508 100.032872)
-		(end 22.819893 99.515903)
+		(start 74.50198 121.447504)
+		(mid 74.535508 120.682872)
+		(end 75.099893 120.165903)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28978,9 +28978,9 @@
 		(uuid "ea94cfd3-36e1-4652-9d74-4f0e441477f1")
 	)
 	(gr_arc
-		(start 72.722894 23.562896)
-		(mid 73.015787 22.855789)
-		(end 73.722894 22.562896)
+		(start 125.002894 44.212896)
+		(mid 125.295787 43.505789)
+		(end 126.002894 43.212896)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -28989,9 +28989,9 @@
 		(uuid "eb3e8333-5a5b-4f15-bf53-500410afedca")
 	)
 	(gr_arc
-		(start 53.378639 28.060974)
-		(mid 53.086425 28.76932)
-		(end 52.378641 29.062891)
+		(start 105.658639 48.710974)
+		(mid 105.366425 49.41932)
+		(end 104.658641 49.712891)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -29000,9 +29000,9 @@
 		(uuid "f019a5b0-f1bf-4ace-a3c4-bb693b5a2c11")
 	)
 	(gr_arc
-		(start 28.990267 116.478751)
-		(mid 28.225635 116.445223)
-		(end 27.708666 115.880838)
+		(start 81.270267 137.128751)
+		(mid 80.505635 137.095223)
+		(end 79.988666 136.530838)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -29011,8 +29011,8 @@
 		(uuid "f03c0344-db40-44fa-bdcb-4f78c67e0da5")
 	)
 	(gr_line
-		(start 48.276946 36.562892)
-		(end 48.276946 30.062891)
+		(start 100.556946 57.212892)
+		(end 100.556946 50.712891)
 		(stroke
 			(width 0.05)
 			(type solid)
