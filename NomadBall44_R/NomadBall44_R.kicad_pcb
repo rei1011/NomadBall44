@@ -1433,7 +1433,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "221e4e51-c431-4670-a993-469ad1ca68e9")
-		(at 218.88 49.22)
+		(at 218.89 49.22)
 		(property "Reference" "SW4"
 			(at 0.5175 -5.5 180)
 			(layer "B.SilkS")
@@ -2680,7 +2680,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "2e95633f-402e-4d80-9ca1-d1dc05ee6dae")
-		(at 238.003437 74.01)
+		(at 237.99 74.01)
 		(property "Reference" "SW11"
 			(at 0.48 -5.5 180)
 			(layer "B.SilkS")
@@ -5424,7 +5424,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "540cf217-bab4-405b-87a9-e2a82de3183c")
-		(at 238.003437 54.83)
+		(at 237.99 54.805)
 		(property "Reference" "SW5"
 			(at 0.48 -5.5 180)
 			(layer "B.SilkS")
@@ -12554,7 +12554,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "8948f5b4-89a5-4977-9fa1-7b1214885d88")
-		(at 257.210937 73.995)
+		(at 257.173437 74.01)
 		(property "Reference" "SW12"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
@@ -14870,7 +14870,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "90b40411-23de-4224-baa7-775c0da921ae")
-		(at 161.3175 67.995)
+		(at 161.320625 67.995)
 		(property "Reference" "SW7"
 			(at 0.50625 -5.5 180)
 			(layer "B.SilkS")
@@ -16720,7 +16720,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "9852cfc7-3cdd-4d65-bb12-1a3971df0cc9")
-		(at 180.52 84.955)
+		(at 180.5 84.955)
 		(property "Reference" "SW14"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
@@ -17790,7 +17790,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "986473fd-2b1e-4fe8-a69f-d6fc732417f4")
-		(at 257.200937 54.805)
+		(at 257.173437 54.805)
 		(property "Reference" "SW6"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
@@ -19213,7 +19213,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "afcf76d3-4a1d-43fe-a324-1bfb93c7f709")
-		(at 180.4975 65.76)
+		(at 180.5 65.76)
 		(property "Reference" "SW8"
 			(at 0.545 -5.5 180)
 			(layer "B.SilkS")
@@ -21547,7 +21547,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "d01a1a4d-d403-4d4e-ad3c-ee8cfd44af2c")
-		(at 218.8875 68.415)
+		(at 218.89 68.415)
 		(property "Reference" "SW10"
 			(at 0.5025 -5.5 180)
 			(layer "B.SilkS")
@@ -24934,7 +24934,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "e2e1686a-def0-4f0f-8a49-253fc277ffb9")
-		(at 161.32 48.82)
+		(at 161.320625 48.82)
 		(property "Reference" "SW1"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
@@ -26004,7 +26004,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "e6503ccc-ed86-420a-a8aa-b051bec49e1b")
-		(at 237.983437 93.2)
+		(at 237.99 93.19)
 		(property "Reference" "SW17"
 			(at 0.52 -5.5 180)
 			(layer "B.SilkS")
@@ -27074,7 +27074,7 @@
 	(footprint "NomadBall44:Choc_v2_Hotswap_1u"
 		(layer "F.Cu")
 		(uuid "ed27c3e7-edaa-4951-8887-6000c2826e35")
-		(at 199.7 44.23)
+		(at 199.69 44.23)
 		(property "Reference" "SW3"
 			(at 0.48 -5.5 180)
 			(layer "B.SilkS")
