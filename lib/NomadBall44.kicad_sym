@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:XIAO-nRF52840-Plus"
+		(property "Footprint" "NomadBall44:XIAO-nRF52840-Plus"
 			(at 22.098 -20.32 0)
 			(effects
 				(font
@@ -610,7 +610,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprintLibrary:pmw3610_connector"
+		(property "Footprint" "NomadBall44:pmw3610_connector"
 			(at 0 0 0)
 			(effects
 				(font

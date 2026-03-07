@@ -9,7 +9,10 @@
 		(hide yes)
 		(uuid "bbd060ef-63ca-420a-89cf-530916537434")
 		(effects
-			(font (size 1.001386 1.001386) (thickness 0.15))
+			(font
+				(size 1.001386 1.001386)
+				(thickness 0.15)
+			)
 		)
 	)
 	(property "Value" "BATT"
@@ -17,7 +20,10 @@
 		(layer "F.Fab")
 		(uuid "b98194c7-b53e-4375-843f-83e6edb14bc6")
 		(effects
-			(font (size 1.000268 1.000268) (thickness 0.15))
+			(font
+				(size 1.000268 1.000268)
+				(thickness 0.15)
+			)
 		)
 	)
 	(property "Datasheet" ""
@@ -27,7 +33,10 @@
 		(hide yes)
 		(uuid "f313a297-9978-4050-ad43-7757821fc255")
 		(effects
-			(font (size 1.27 1.27) (thickness 0.15))
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
 		)
 	)
 	(property "Description" ""
@@ -37,14 +46,20 @@
 		(hide yes)
 		(uuid "2d303fb7-d027-49e8-870d-cacea22f2831")
 		(effects
-			(font (size 1.27 1.27) (thickness 0.15))
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
 		)
 	)
 	(attr smd)
 	(fp_circle
 		(center 1.9 1.6)
 		(end 2.027 1.6)
-		(stroke (width 0) (type solid))
+		(stroke
+			(width 0)
+			(type solid)
+		)
 		(fill yes)
 		(layer "F.SilkS")
 		(uuid "86db4ca6-052d-40f3-ac99-f98815a3e054")
@@ -52,84 +67,120 @@
 	(fp_line
 		(start -4.5 -8)
 		(end -4.5 0.75)
-		(stroke (width 0.127) (type solid))
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
 		(layer "F.CrtYd")
 		(uuid "bb14cd18-a79d-4f9d-bff6-8c2f9f943807")
 	)
 	(fp_line
 		(start -4.5 0.75)
 		(end -2.25 0.75)
-		(stroke (width 0.127) (type solid))
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
 		(layer "F.CrtYd")
 		(uuid "82bfe12a-e83a-498b-8609-78311dd0355f")
 	)
 	(fp_line
 		(start -2.25 0.75)
 		(end -2.25 2.25)
-		(stroke (width 0.127) (type solid))
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
 		(layer "F.CrtYd")
 		(uuid "d6506586-d30d-4b6f-9691-7db268b0b6d3")
 	)
 	(fp_line
 		(start -2.25 2.25)
 		(end 2.25 2.25)
-		(stroke (width 0.127) (type solid))
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
 		(layer "F.CrtYd")
 		(uuid "20fe7d16-1764-41f1-b461-88ef3b9befe4")
 	)
 	(fp_line
 		(start 2.25 0.75)
 		(end 4.5 0.75)
-		(stroke (width 0.127) (type solid))
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
 		(layer "F.CrtYd")
 		(uuid "9f467dac-df92-43de-b90c-6ffbeec88dd0")
 	)
 	(fp_line
 		(start 2.25 2.25)
 		(end 2.25 0.75)
-		(stroke (width 0.127) (type solid))
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
 		(layer "F.CrtYd")
 		(uuid "ca719113-e461-4a65-8074-cbc500ba62c7")
 	)
 	(fp_line
 		(start 4.5 -8)
 		(end -4.5 -8)
-		(stroke (width 0.127) (type solid))
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
 		(layer "F.CrtYd")
 		(uuid "169fedbd-25c9-44cf-8ac2-9850777fb7ac")
 	)
 	(fp_line
 		(start 4.5 0.75)
 		(end 4.5 -8)
-		(stroke (width 0.127) (type solid))
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
 		(layer "F.CrtYd")
 		(uuid "b6d1e303-5e48-41eb-bfd7-2f91a5f40260")
 	)
 	(fp_line
 		(start -3.95 -7.25)
 		(end 3.95 -7.25)
-		(stroke (width 0.127) (type solid))
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
 		(layer "F.Fab")
 		(uuid "b02c09a9-0e50-42f7-ad65-39ba8dcf1c89")
 	)
 	(fp_line
 		(start -3.95 0.35)
 		(end -3.95 -7.25)
-		(stroke (width 0.127) (type solid))
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
 		(layer "F.Fab")
 		(uuid "822bb1c6-2a72-4f8a-b8cb-b2a5fdf824da")
 	)
 	(fp_line
 		(start 3.95 -7.25)
 		(end 3.95 0.35)
-		(stroke (width 0.127) (type solid))
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
 		(layer "F.Fab")
 		(uuid "d06a31bb-516d-4309-994b-1bca3bfa6771")
 	)
 	(fp_line
 		(start 3.95 0.35)
 		(end -3.95 0.35)
-		(stroke (width 0.127) (type solid))
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
 		(layer "F.Fab")
 		(uuid "0291f3bc-8d8e-4637-86d0-f02256a5ba16")
 	)
@@ -163,8 +214,14 @@
 	)
 	(embedded_fonts no)
 	(model "D:/DIY_keyboard/kicad/lib/S2B_PH_SM4_TB/S2B-PH-SM4-TB.step"
-		(offset (xyz 0 7.5 0))
-		(scale (xyz 1 1 1))
-		(rotate (xyz -90 0 180))
+		(offset
+			(xyz 0 7.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 180)
+		)
 	)
 )
