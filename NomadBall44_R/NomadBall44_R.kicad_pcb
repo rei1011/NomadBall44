@@ -1015,7 +1015,7 @@
 	(footprint "NomadBall44:TGSW_MSK-12D19"
 		(layer "F.Cu")
 		(uuid "1d5dcef4-5ee8-4f5e-b1c7-790f7ed33610")
-		(at 87.57 84.9 -90)
+		(at 87.1 86.99 90)
 		(property "Reference" "SW23"
 			(at 0 -2 90)
 			(layer "F.Fab")
@@ -1068,24 +1068,14 @@
 		(sheetfile "NomadBall44_R.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -4.5 2)
-			(end -4.5 -1.5)
+			(start 4.5 -1.5)
+			(end 4.5 2)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "41e9ede5-18d4-49e6-8d6f-05f221923ace")
-		)
-		(fp_line
-			(start 4.5 2)
-			(end -4.5 2)
-			(stroke
-				(width 0.15)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "3bcd38ac-c91e-49a5-b9d4-6fcd6a20cb5e")
+			(uuid "536f7509-d1f9-4788-b2eb-e50c6e3f100d")
 		)
 		(fp_line
 			(start -4.5 -1.5)
@@ -1098,17 +1088,27 @@
 			(uuid "d8d591ac-c9a2-4d65-a748-f71bb4f127cf")
 		)
 		(fp_line
-			(start 4.5 -1.5)
-			(end 4.5 2)
+			(start 4.5 2)
+			(end -4.5 2)
 			(stroke
 				(width 0.15)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "536f7509-d1f9-4788-b2eb-e50c6e3f100d")
+			(uuid "3bcd38ac-c91e-49a5-b9d4-6fcd6a20cb5e")
+		)
+		(fp_line
+			(start -4.5 2)
+			(end -4.5 -1.5)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "41e9ede5-18d4-49e6-8d6f-05f221923ace")
 		)
 		(pad "1" thru_hole oval
-			(at -2.5 1.05 270)
+			(at -2.5 1.05 90)
 			(size 1.3 1)
 			(drill oval 0.8 0.5)
 			(layers "*.Cu" "*.Mask")
@@ -1120,7 +1120,7 @@
 			(uuid "3b24a77c-60fc-472f-9cce-0547a33847dc")
 		)
 		(pad "2" thru_hole oval
-			(at 0 1.05 270)
+			(at 0 1.05 90)
 			(size 1.3 1)
 			(drill oval 0.8 0.5)
 			(layers "*.Cu" "*.Mask")
@@ -1132,7 +1132,7 @@
 			(uuid "dda0f922-0154-4d7c-b96d-26268c058e1b")
 		)
 		(pad "3" thru_hole oval
-			(at 2.5 1.05 270)
+			(at 2.5 1.05 90)
 			(size 1.3 1)
 			(drill oval 0.8 0.5)
 			(layers "*.Cu" "*.Mask")
