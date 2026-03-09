@@ -5442,7 +5442,7 @@
 		(property "Reference" "SW5"
 			(at 0.48 -5.5 180)
 			(layer "B.SilkS")
-			(uuid "bad52364-9c1a-4c81-ab25-61ab0afc037b")
+			(uuid "ca03164b-0ab5-4a2d-bdc1-599f5aa03ef7")
 			(effects
 				(font
 					(size 1 1)
@@ -5455,7 +5455,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "27ca377c-7d09-4bd3-b4bb-8b5741e5077b")
+			(uuid "e731e0af-6ca1-4f7c-b870-0fa7b0d5f3c5")
 			(effects
 				(font
 					(size 1 1)
@@ -5467,7 +5467,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "50ece25d-cf7d-4644-a041-61113177491b")
+			(uuid "399bdcdc-14ed-49a2-b5e2-0b533719b9a8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5479,7 +5479,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "264ecc0b-e194-4e92-88cd-3b1e0a40d226")
+			(uuid "37fa2780-9b35-42b7-b3e8-447c3cb8b27c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18002,7 +18002,7 @@
 		(property "Reference" "SW6"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
-			(uuid "fc1094b5-6f16-42e1-bc2a-b60caa83b677")
+			(uuid "82db3cee-c790-432d-aace-3f94452bcd02")
 			(effects
 				(font
 					(size 1 1)
@@ -18015,7 +18015,7 @@
 			(at 2.54 -6.35 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a3a6e412-9b7c-421f-86ee-d7610b678467")
+			(uuid "69ada4d6-71a2-40c7-9789-3a873751d0c4")
 			(effects
 				(font
 					(size 1 1)
@@ -18027,7 +18027,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2e68948c-de98-42ba-af40-7bbb0c8611da")
+			(uuid "c93d570c-60f7-4c2c-bbab-54bf260befe9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18039,7 +18039,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0b1de4fd-44ca-47ea-8bde-a6508abfa914")
+			(uuid "bf198548-6733-46c0-bf8f-58907a8bb0cf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29252,16 +29252,6 @@
 		(uuid "4c3624d6-5ad3-41f8-91ec-f43e3fd3b3d9")
 	)
 	(gr_line
-		(start 182.152892 52.412896)
-		(end 199.02231 52.412896)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "4cbce67a-b3da-439d-b7ee-fd3d8957173e")
-	)
-	(gr_line
 		(start 101.806946 49.712891)
 		(end 104.658641 49.712891)
 		(stroke
@@ -29398,7 +29388,7 @@
 		(uuid "6d892714-48ee-4fc2-8b54-a4b93f34c9ed")
 	)
 	(gr_line
-		(start 199.02231 52.412874)
+		(start 182.159533 52.412874)
 		(end 218.252893 52.412874)
 		(stroke
 			(width 0.05)
@@ -29468,16 +29458,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "8ab964bd-bcf4-43a0-91ac-836311e3d46e")
-	)
-	(gr_line
-		(start 199.02231 52.412896)
-		(end 199.02231 52.412874)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "8f65c3f6-a540-44ff-9f17-a2abc4868011")
 	)
 	(gr_line
 		(start 161.294324 100.362895)
