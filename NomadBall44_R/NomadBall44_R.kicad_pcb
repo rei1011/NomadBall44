@@ -1015,7 +1015,7 @@
 	(footprint "NomadBall44:TGSW_MSK-12D19"
 		(layer "F.Cu")
 		(uuid "1d5dcef4-5ee8-4f5e-b1c7-790f7ed33610")
-		(at 87.1 86.99 90)
+		(at 87.04 76.02 90)
 		(property "Reference" "SW23"
 			(at 0 -2 90)
 			(layer "F.Fab")
@@ -12392,7 +12392,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "7e5f0ad8-4ec7-4aff-a364-30fd2b188ae9")
-		(at 97.893438 90.18)
+		(at 98.323438 87.93)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D21"
 			(at 3 -1 0)
@@ -16406,7 +16406,7 @@
 	(footprint "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm"
 		(layer "F.Cu")
 		(uuid "95214779-1d90-49c1-8f4f-d7944e67818e")
-		(at 87.91 97.28)
+		(at 88.39 93.72)
 		(descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF")
 		(tags "rotary encoder")
 		(property "Reference" "SW21"
