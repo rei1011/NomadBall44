@@ -2925,6 +2925,101 @@
 		)
 		(embedded_fonts no)
 	)
+	(footprint "NomadBall44:m2_Screw_Hole"
+		(layer "F.Cu")
+		(uuid "839bd688-7721-484d-be5b-dfa51fa7eae3")
+		(at 186.26 108.44)
+		(descr "Mounting Hole 2.2mm, no annular, M2")
+		(tags "mounting hole 2.2mm no annular m2")
+		(property "Reference" "REF**"
+			(at 0 -3.2 0)
+			(layer "F.Fab")
+			(uuid "69bc6359-713c-4af1-a099-c736775ffa81")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "Val**"
+			(at 0 3.2 0)
+			(layer "F.Fab")
+			(uuid "0a5376d1-1864-4563-a84a-9c22085a183d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cc222bf6-57fd-4aed-b366-9b1a51326bb6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0780028b-f538-4b87-aa2e-9b475ddbbf57")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 2.2 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill no)
+			(layer "Cmts.User")
+			(uuid "fcefb4d6-630c-48a2-9a1f-aa3db1f55523")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "3a9dcfd4-5a71-499e-9d7c-49d57165fca8")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0.3 0 0)
+			(layer "F.Fab")
+			(uuid "24ad5d49-4ea3-44a5-b960-881e4fd98708")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "19b0fde5-78bc-44bc-8627-867218e85c12")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "NomadBall44:SW_Hole_1u"
 		(layer "F.Cu")
 		(uuid "8948f5b4-89a5-4977-9fa1-7b1214885d88")
