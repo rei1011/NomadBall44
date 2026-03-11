@@ -5108,7 +5108,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NomadBall44:XIAO-nRF52840-Plus"
+		(property "Footprint" "NomadBall44:XIAO-nRF52840-Plus-ver2"
 			(at 56.388 48.26 0)
 			(effects
 				(font
