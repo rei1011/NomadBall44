@@ -130,7 +130,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "046b88e5-d5ae-4bdd-b6fe-d43406494c00")
-		(at 71.8365 93.813698)
+		(at 173.916875 64.23)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D4"
 			(at 3 -1 0)
@@ -1473,7 +1473,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "13fa3d64-b25b-49a4-adc7-2b5e00a0b803")
-		(at 84.54275 89.032442)
+		(at 134.106875 108.21)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D18"
 			(at 3 -1 0)
@@ -2960,7 +2960,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "1d7280fe-9c18-494f-b324-142563d049e7")
-		(at 84.54275 98.594954)
+		(at 174.646875 121.54)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D22"
 			(at 3 -1 0)
@@ -3137,7 +3137,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "1f70d647-4b48-4b42-88e8-34bfadd251eb")
-		(at 78.189625 86.641814)
+		(at 191.566875 78.48)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D9"
 			(at 3 -1 0)
@@ -6651,7 +6651,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "3d81c50a-4522-4bbb-b1a1-500adbfb2f16")
-		(at 84.54275 96.204326)
+		(at 217.446875 127.17)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D21"
 			(at 3 -1 0)
@@ -7737,7 +7737,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "401b489b-7137-46de-af24-3101353c0af5")
-		(at 71.8365 98.594954)
+		(at 134.116875 69.83)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D6"
 			(at 3 -1 0)
@@ -12194,7 +12194,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "5822e675-183d-4e76-9c2b-b5010795dfb7")
-		(at 71.8365 89.032442)
+		(at 210.746875 61.64)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D2"
 			(at 3 -1 0)
@@ -13546,10 +13546,10 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "68e688a2-d3e0-4b39-be96-b9d6c08a2cb7")
-		(at 84.54275 93.813698)
+		(at 239.276875 127.5 -10)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D20"
-			(at 3 -1 0)
+			(at 3 -1 170)
 			(layer "B.SilkS")
 			(uuid "9fc8c95f-14fa-4e46-82eb-daeeaa6aba45")
 			(effects
@@ -13562,7 +13562,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 3.2 -1.6 0)
+			(at 3.2 -1.6 170)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1014b7f6-f77b-4c41-a54e-9a91098dd2e1")
@@ -13574,7 +13574,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 0)
+			(at 0 0 350)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13587,7 +13587,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 0 0 0)
+			(at 0 0 350)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13600,7 +13600,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 0 0 0)
+			(at 0 0 350)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13613,7 +13613,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
+			(at 0 0 350)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -13631,7 +13631,7 @@
 		(sheetfile "NomadBall44_L.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start 1.785943 0)
+			(start 1.785944 0)
 			(end 1.984381 0)
 			(stroke
 				(width 0.2)
@@ -13639,16 +13639,6 @@
 			)
 			(layer "B.SilkS")
 			(uuid "fc023fd6-8664-4c85-a2aa-a243e0b0f5f5")
-		)
-		(fp_line
-			(start 1.984381 -0.595314)
-			(end 1.984381 0.595314)
-			(stroke
-				(width 0.2)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "b5670028-958d-475e-8f32-fa9fc5f00174")
 		)
 		(fp_line
 			(start 1.984381 0.595314)
@@ -13661,6 +13651,16 @@
 			(uuid "1f22d6e9-44f2-4723-b973-f4f776118ef8")
 		)
 		(fp_line
+			(start 1.984381 -0.595314)
+			(end 1.984381 0.595314)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "b5670028-958d-475e-8f32-fa9fc5f00174")
+		)
+		(fp_line
 			(start 2.381257 0.595314)
 			(end 2.381257 -0.595314)
 			(stroke
@@ -13671,14 +13671,14 @@
 			(uuid "5a20b716-73bd-4947-800d-9d4b30820c6f")
 		)
 		(fp_line
-			(start 3.571885 -0.595314)
-			(end 1.984381 -0.595314)
+			(start 3.571885 0.595314)
+			(end 3.571885 -0.595314)
 			(stroke
 				(width 0.2)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "69091cc5-69c5-472b-97db-c822ce3c0d70")
+			(uuid "b2372d54-801d-4a37-bf38-7f18d4751849")
 		)
 		(fp_line
 			(start 3.571885 0)
@@ -13691,17 +13691,17 @@
 			(uuid "d9fe8e3e-2e97-4075-8060-9063d4b11428")
 		)
 		(fp_line
-			(start 3.571885 0.595314)
-			(end 3.571885 -0.595314)
+			(start 3.571885 -0.595314)
+			(end 1.984381 -0.595314)
 			(stroke
 				(width 0.2)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "b2372d54-801d-4a37-bf38-7f18d4751849")
+			(uuid "69091cc5-69c5-472b-97db-c822ce3c0d70")
 		)
 		(pad "1" smd rect
-			(at 1.053125 0)
+			(at 1.053125 0 350)
 			(size 1.2 0.95)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 25 "Row3")
@@ -13710,7 +13710,7 @@
 			(uuid "90c7385a-94b7-4194-89c3-6f5d2a8ea130")
 		)
 		(pad "2" smd rect
-			(at 4.503125 0)
+			(at 4.503125 0 350)
 			(size 1.2 0.95)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 26 "Net-(D20-A)")
@@ -13819,7 +13819,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "6bbc1419-8aa0-4c35-a948-cf492b54053b")
-		(at 71.8365 86.641814)
+		(at 229.993438 63.81)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D1"
 			(at 3 -1 0)
@@ -13996,7 +13996,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "6edcc95b-3158-4e63-8f3d-067ddd544ff6")
-		(at 78.189625 98.594954)
+		(at 210.776875 99.96)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D14"
 			(at 3 -1 0)
@@ -14173,7 +14173,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "73a3db89-286b-4edf-b3c3-1556237a886e")
-		(at 71.8365 91.42307)
+		(at 193.836875 58.41)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D3"
 			(at 3 -1 0)
@@ -16490,7 +16490,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "81e34563-55e2-41b2-b911-90fed07f8b3f")
-		(at 78.189625 100.985582)
+		(at 191.606875 97.69)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D15"
 			(at 3 -1 0)
@@ -16667,10 +16667,10 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "82311f32-667f-4bfc-820f-c04770c6c80c")
-		(at 84.54275 91.42307)
+		(at 263.636875 131.33 -20)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D19"
-			(at 3 -1 0)
+			(at 3 -1 160)
 			(layer "B.SilkS")
 			(uuid "dfcc78f6-7547-4d0e-8359-b65fdde3b2af")
 			(effects
@@ -16683,7 +16683,7 @@
 			)
 		)
 		(property "Value" "D"
-			(at 3.2 -1.6 0)
+			(at 3.200001 -1.599999 160)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e4380107-f25c-49ef-8850-b00e511e544e")
@@ -16695,7 +16695,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 0 0 0)
+			(at 0 0 340)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -16708,7 +16708,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 0 0 0)
+			(at 0 0 340)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -16721,7 +16721,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 0 0 0)
+			(at 0 0 340)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -16734,7 +16734,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
+			(at 0 0 340)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -16752,26 +16752,6 @@
 		(sheetfile "NomadBall44_L.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start 1.785943 0)
-			(end 1.984381 0)
-			(stroke
-				(width 0.2)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "ccc85615-ab8c-4393-b74b-df1119e473bc")
-		)
-		(fp_line
-			(start 1.984381 -0.595314)
-			(end 1.984381 0.595314)
-			(stroke
-				(width 0.2)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "f8236f22-18ed-444a-929d-83966b458017")
-		)
-		(fp_line
 			(start 1.984381 0.595314)
 			(end 3.571885 0.595314)
 			(stroke
@@ -16780,6 +16760,16 @@
 			)
 			(layer "B.SilkS")
 			(uuid "c5e9975e-74e4-41f5-86c8-9635df8948f8")
+		)
+		(fp_line
+			(start 1.785944 0)
+			(end 1.984381 0)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "ccc85615-ab8c-4393-b74b-df1119e473bc")
 		)
 		(fp_line
 			(start 2.381257 0.595314)
@@ -16792,24 +16782,14 @@
 			(uuid "d5d9b7a8-3004-441b-8486-8ba76c08a4de")
 		)
 		(fp_line
-			(start 3.571885 -0.595314)
-			(end 1.984381 -0.595314)
+			(start 1.984381 -0.595314)
+			(end 1.984381 0.595314)
 			(stroke
 				(width 0.2)
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "0a94d440-8afc-4dfb-8e51-6c3631fe5b75")
-		)
-		(fp_line
-			(start 3.571885 0)
-			(end 3.770323 0)
-			(stroke
-				(width 0.2)
-				(type solid)
-			)
-			(layer "B.SilkS")
-			(uuid "a2dd18ff-de2f-403e-a83d-c57f80cb0fa5")
+			(uuid "f8236f22-18ed-444a-929d-83966b458017")
 		)
 		(fp_line
 			(start 3.571885 0.595314)
@@ -16821,8 +16801,28 @@
 			(layer "B.SilkS")
 			(uuid "a78966cc-9fe8-4d14-8714-5f0cccc296dd")
 		)
+		(fp_line
+			(start 3.571885 -0.000001)
+			(end 3.770323 0.000001)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "a2dd18ff-de2f-403e-a83d-c57f80cb0fa5")
+		)
+		(fp_line
+			(start 3.571885 -0.595314)
+			(end 1.984381 -0.595314)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "0a94d440-8afc-4dfb-8e51-6c3631fe5b75")
+		)
 		(pad "1" smd rect
-			(at 1.053125 0)
+			(at 1.053125 0 340)
 			(size 1.2 0.95)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 25 "Row3")
@@ -16831,7 +16831,7 @@
 			(uuid "dcb5b453-b872-49c6-8685-b13d6af4a329")
 		)
 		(pad "2" smd rect
-			(at 4.503125 0)
+			(at 4.503125 0 340)
 			(size 1.2 0.95)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(net 24 "Net-(D19-A)")
@@ -16844,7 +16844,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "8a148e0a-fb97-4ca8-ad7f-bf8b81c576fc")
-		(at 71.8365 100.985582)
+		(at 229.993438 83.72)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D7"
 			(at 3 -1 0)
@@ -17021,7 +17021,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "8f24c299-007c-4c68-ab0d-b22e71b56b91")
-		(at 84.54275 86.641814)
+		(at 155.456875 107.3)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D17"
 			(at 3 -1 0)
@@ -17198,7 +17198,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "95fa4319-a460-49b9-baba-4178f163030a")
-		(at 78.189625 93.813698)
+		(at 134.106875 89.06)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D12"
 			(at 3 -1 0)
@@ -18445,7 +18445,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "9d119b99-dbe7-4844-a90c-d6723b623722")
-		(at 78.189625 91.42307)
+		(at 153.366875 90.67)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D11"
 			(at 3 -1 0)
@@ -18622,7 +18622,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "a28606ae-7dc0-40a8-ac06-5cab40e45982")
-		(at 78.189625 103.37621)
+		(at 172.406875 102.59)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D16"
 			(at 3 -1 0)
@@ -22009,7 +22009,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "c5b91fca-2cfe-40c3-8c9a-c31ee7427ec6")
-		(at 84.54275 100.985582)
+		(at 153.236875 127.3)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D23"
 			(at 3 -1 0)
@@ -22186,7 +22186,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "c5cae1ae-2ff1-480b-ad1b-f4bd3df850f2")
-		(at 78.189625 96.204326)
+		(at 230.006875 103.37)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D13"
 			(at 3 -1 0)
@@ -22363,7 +22363,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "cd51441b-5961-4ddf-a450-63699c97f4d9")
-		(at 71.8365 96.204326)
+		(at 153.286875 69.86)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D5"
 			(at 3 -1 0)
@@ -24680,7 +24680,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "d2559226-cba0-4d0f-9760-e08c8239f519")
-		(at 78.189625 89.032442)
+		(at 172.376875 83.42)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D10"
 			(at 3 -1 0)
@@ -29137,7 +29137,7 @@
 	(footprint "NomadBall44:Diode_SMD"
 		(layer "F.Cu")
 		(uuid "efd4b0da-9548-4ec7-9297-e7243cd8883b")
-		(at 71.8365 103.37621)
+		(at 210.736875 80.81)
 		(descr "https://github.com/e3w2q/su120-keyboard (diode_SMD_rev2)")
 		(property "Reference" "D8"
 			(at 3 -1 0)
