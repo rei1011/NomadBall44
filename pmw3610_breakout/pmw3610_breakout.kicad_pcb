@@ -915,7 +915,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" " 10n (X7R)"
+		(property "Value" "10n"
 			(at 0 -1.43 180)
 			(layer "B.Fab")
 			(uuid "9222762b-7391-4768-9540-e4763b5b3e4d")
@@ -1135,7 +1135,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" " 100n (X7R)"
+		(property "Value" "100n"
 			(at 0 -1.43 180)
 			(layer "B.Fab")
 			(uuid "bbef27f4-e54f-4cbe-b2e6-15f954f101c6")
