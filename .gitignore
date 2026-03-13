@@ -1,8 +1,10 @@
 .DS_Store
 jlcpcb/
 *.bak
+*-bak
 *.lck
 **/*-backups/*.zip
 _autosave-*
 fp-info-cache
 *.kicad_prl
+order/
