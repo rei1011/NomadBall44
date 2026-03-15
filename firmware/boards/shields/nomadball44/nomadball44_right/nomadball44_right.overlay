@@ -1,0 +1,90 @@
+/*
+ * NomadBall44 Right - Central (21 keys + encoder + trackball)
+ * Matrix: 4 rows x 6 cols, col2row
+ * Encoder: EC12 at SW21 position, RE_A=D4, RE_B=D5
+ * Trackball: PMW3610 on SPI1, D0-D3
+ */
+
+#include "../nomadball44.dtsi"
+#include <zephyr/dt-bindings/input/input-event-codes.h>
+
+&pinctrl {
+	spi1_default: spi1_default {
+		group1 {
+			psels = <NRF_PSEL(SPIM_SCK, 0, 3)>,
+				<NRF_PSEL(SPIM_MOSI, 0, 2)>,
+				<NRF_PSEL(SPIM_MISO, 0, 2)>;
+		};
+	};
+
+	spi1_sleep: spi1_sleep {
+		group1 {
+			psels = <NRF_PSEL(SPIM_SCK, 0, 3)>,
+				<NRF_PSEL(SPIM_MOSI, 0, 2)>,
+				<NRF_PSEL(SPIM_MISO, 0, 2)>;
+			low-power-enable;
+		};
+	};
+};
+
+&spi1 {
+	status = "okay";
+	compatible = "nordic,nrf-spim";
+	pinctrl-0 = <&spi1_default>;
+	pinctrl-1 = <&spi1_sleep>;
+	pinctrl-names = "default", "sleep";
+	cs-gpios = <&gpio0 28 GPIO_ACTIVE_LOW>;
+
+	trackball: trackball@0 {
+		status = "okay";
+		compatible = "pixart,pmw3610-alt";
+		reg = <0>;
+		spi-max-frequency = <2000000>;
+		irq-gpios = <&gpio0 29 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>;
+		cpi = <600>;
+		evt-type = <INPUT_EV_REL>;
+		x-input-code = <INPUT_REL_X>;
+		y-input-code = <INPUT_REL_Y>;
+		force-awake;
+		force-awake-4ms-mode;
+	};
+};
+
+/ {
+	chosen {
+		zmk,kscan = &kscan;
+		zmk,matrix_transform = &default_transform;
+	};
+
+	default_transform: keymap_transform_0 {
+		compatible = "zmk,matrix-transform";
+		columns = <6>;
+		rows = <4>;
+		/* Right 21 keys: 6+6+6+3 (SW21=encoder button in matrix) */
+		map = <
+			RC(0,0) RC(0,1) RC(0,2) RC(0,3) RC(0,4) RC(0,5)
+			RC(1,0) RC(1,1) RC(1,2) RC(1,3) RC(1,4) RC(1,5)
+			RC(2,0) RC(2,1) RC(2,2) RC(2,3) RC(2,4) RC(2,5)
+			RC(3,3) RC(3,4) RC(3,5)
+		>;
+	};
+
+	encoder_right: encoder_right {
+		compatible = "alps,ec11";
+		a-gpios = <&gpio0 4 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
+		b-gpios = <&gpio0 5 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
+		steps = <24>;
+		status = "okay";
+	};
+
+	sensors {
+		compatible = "zmk,keymap-sensors";
+		sensors = <&encoder_right>;
+		triggers-per-rotation = <24>;
+	};
+
+	trackball_listener {
+		compatible = "zmk,input-listener";
+		device = <&trackball>;
+	};
+};

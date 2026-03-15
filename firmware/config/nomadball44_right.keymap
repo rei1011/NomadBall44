@@ -1,0 +1,19 @@
+/*
+ * NomadBall44 Right - Default keymap (21 keys + encoder)
+ */
+
+/ {
+	keymap {
+		compatible = "zmk,keymap";
+
+		default_layer {
+			bindings = <
+				&kp U &kp I &kp O &kp P &kp LBKT &kp RBKT
+				&kp J &kp K &kp L &kp SEMI &kp SQT &kp BSLH
+				&kp M &kp COMMA &kp DOT &kp FSLH &kp MINUS &kp EQL
+				&kp RGT &kp UP &kp LFT
+			>;
+			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
+		};
+	};
+};
