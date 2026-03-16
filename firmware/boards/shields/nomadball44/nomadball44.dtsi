@@ -1,0 +1,38 @@
+/*
+ * NomadBall44 - Common definitions for left and right halves
+ * 4x6 matrix, col2row, same pin assignment for both halves
+ */
+
+#include <dt-bindings/zmk/matrix_transform.h>
+
+/* xiao_ble default peripheral conflicts - disable to free pins */
+&uart0 { status = "disabled"; };
+&i2c1  { status = "disabled"; };
+&spi2  { status = "disabled"; };
+
+/ {
+	kscan: kscan {
+		compatible = "zmk,kscan-gpio-matrix";
+		wakeup-source;
+		diode-direction = "col2row";
+
+		row-gpios
+			= <&gpio1 15 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  /* Row0: D10 P1.15 */
+			, <&gpio1 14 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  /* Row1: D9  P1.14 */
+			, <&gpio1 13 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  /* Row2: D8  P1.13 */
+			, <&gpio1 12 (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>  /* Row3: D7  P1.12 */
+			;
+
+		col-gpios
+			= <&gpio0 15 GPIO_ACTIVE_LOW>   /* Col0: D11 P0.15 */
+			, <&gpio0 19 GPIO_ACTIVE_LOW>   /* Col1: D12 P0.19 */
+			, <&gpio1 1  GPIO_ACTIVE_LOW>   /* Col2: D13 P1.01 */
+			, <&gpio0 9  GPIO_ACTIVE_LOW>   /* Col3: D14 P0.09 */
+			, <&gpio0 10 GPIO_ACTIVE_LOW>   /* Col4: D15 P0.10 */
+			, <&gpio1 3  GPIO_ACTIVE_LOW>   /* Col5: D17 P1.03 */
+			;
+
+		debounce-press-ms = <5>;
+		debounce-release-ms = <5>;
+	};
+};

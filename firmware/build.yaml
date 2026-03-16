@@ -1,0 +1,5 @@
+include:
+  - board: seeeduino_xiao_ble
+    shield: nomadball44_left
+  - board: seeeduino_xiao_ble
+    shield: nomadball44_right
