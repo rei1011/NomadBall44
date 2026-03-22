@@ -1,0 +1,193 @@
+NomadBall44 — 第三者ソフトウェア・素材のライセンス表示
+================================================================
+
+本リポジトリのオリジナル部分は GNU General Public License v3（ルートの LICENSE ファイル）に従います。
+以下は、キーボード設計（KiCad）のために利用・改変している第三者のフットプリント・シンボル・
+ライブラリに関する帰属表示および MIT ライセンス全文です。
+
+CC BY-SA 4.0（Seeed OPL）の法的条項の全文は、リポジトリ内の
+third_party/seeed-opl-kicad-library-LICENSE に同梱のコピーを参照してください。
+
+----------------------------------------------------------------
+1. Salicylic-acid3 / KiCAD_FootPrint（MIT）
+----------------------------------------------------------------
+
+参照先: https://github.com/Salicylic-acid3/KiCAD_FootPrint
+
+本プロジェクトでは、キーボード用フットプリント等として
+design_data/lib/NomadBall44.pretty/ 配下（例: Choc_v2_Hotswap_1u.kicad_mod など）に、
+当該コレクション由来またはそれに準ずる資産を利用しています。
+
+以下は上流リポジトリの Licence.txt と同一の全文です（third_party/
+salicylic-kicad-footprint-Licence.txt にも同文を保存）。
+
+Copyright 2020 Salicylic_acid3
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+=This footprint file contains artifacts from the following authors and licenses=
+
+
+MIT License
+
+Copyright (c) 2023 gachiham
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
+MIT License
+
+Copyright (c) 2020 foostan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+----------------------------------------------------------------
+2. koktoh / BrownSugar_KBD_KiCad_Library（MIT）
+----------------------------------------------------------------
+
+参照先: https://github.com/koktoh/BrownSugar_KBD_KiCad_Library
+
+本プロジェクトでは、少なくとも design_data/lib/NomadBall44.pretty/
+Kailh_Choc_V1_Hotswap_thin_via.kicad_mod および対応する PCB 内で
+${BROWNSUGAR_KBD_3DMOD} を参照する 3D モデルパスとして BrownSugar 由来の資産を利用しています。
+
+以下は上流リポジトリの LICENSE と同一の全文です（third_party/
+brownsugar-kbd-kicad-library-LICENSE にも同文を保存）。
+
+MIT License
+
+Copyright (c) 2023 koktoh
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+=This footprint file contains artifacts from the following authors and licenses=
+
+
+MIT License
+
+Copyright (c) 2020 foostan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+----------------------------------------------------------------
+3. kumamuk-git / roBa（GNU GPL version 3）
+----------------------------------------------------------------
+
+参照先: https://github.com/kumamuk-git/roBa
+
+本プロジェクトの design_data/pmw3610_breakout/ では、KiCad のフットプリントライブラリ
+（fp-lib-table の ${ROBA_FP}）、シンボルライブラリ（sym-lib-table の ${ROBA_SYMBOL}）として
+roBa リポジトリ由来の定義を参照しています。例として PCB 上のフットプリント名には
+roBa:PMW3610DM-SUDU 16Pin、roBa:C_0603_1608Metric、roBa:SOT-23 などが含まれます。
+
+roBa は GNU General Public License version 3 で公開されています。本リポジトリ全体も
+ルートの LICENSE ファイルに GPLv3 全文を掲載しており、同梱物の再配布条件はそちらに従います。
+
+----------------------------------------------------------------
+4. Seeed Studio / OPL_Kicad_Library（CC BY-SA 4.0）
+----------------------------------------------------------------
+
+参照先: https://github.com/Seeed-Studio/OPL_Kicad_Library
+ライセンス（上流）: https://github.com/Seeed-Studio/OPL_Kicad_Library/blob/master/LICENSE
+人向け要約: https://creativecommons.org/licenses/by-sa/4.0/
+
+帰属: Seeed Studio — Open Parts Library (OPL) KiCad Library
+
+本プロジェクトでは、Seeed OPL KiCad ライブラリに由来する回路・フットプリント・シンボルを
+利用・改変しています。少なくとも次のローカル資産が該当します。
+
+- シンボル: design_data/lib/NomadBall44.kicad_sym 内の XIAO-nRF52840_Plus_SMD
+- フットプリント: design_data/lib/NomadBall44.pretty/ のXIAO-nRF52840-Plus.kicad_mod
+
+これらは NomadBall44_L / NomadBall44_R などの .kicad_pcb および関連スキーマで使用されています。
+
+改変: 外形・シルク・ネット割り当てなど、本キーボード向けに調整している場合があります。
+
+Creative Commons Attribution-ShareAlike 4.0 International の完全な条項は、
+third_party/seeed-opl-kicad-library-LICENSE（上流 LICENSE のコピー）に記載されています。
+CC BY-SA 4.0 の適用を受ける派生物の共有にあたっては、同条項および本リポジトリの GPLv3 との
+関係（Creative Commons が示す BY-SA 4.0 と GPLv3 の互換性に関する説明）に留意してください。
