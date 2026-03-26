@@ -16,3 +16,4 @@
 | kumamuk-git / roBa（GPL-3.0） | https://github.com/kumamuk-git/roBa |
 | Seeed Studio / OPL_Kicad_Library（CC BY-SA 4.0） | https://github.com/Seeed-Studio/OPL_Kicad_Library |
 
+Seeed OPL 由来の KiCad シンボル・フットプリントのファイル一覧、改変内容の説明、および派生ファイルを単体で再配布する際の表示の目安は、**[NOTICES](NOTICES)** のセクション 4 に記載しています。
