@@ -308,7 +308,7 @@
 		(layer "F.Cu")
 		(uuid "047a9540-349b-485f-abfc-b400f7a04104")
 		(at 181.384757 126.99)
-		(property "Reference" "SW22"
+		(property "Reference" "SW20"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "08cfbfe2-59a1-4d62-bd8b-8a849a3a8e85")
@@ -1795,7 +1795,7 @@
 		(layer "F.Cu")
 		(uuid "17adf26f-64e1-445c-ac96-6abe38d9ec40")
 		(at 162.284757 113.419999)
-		(property "Reference" "SW17"
+		(property "Reference" "SW14"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "cfe8ecd4-84f4-460c-a12d-b41d00aa5003")
@@ -3315,7 +3315,7 @@
 		(layer "F.Cu")
 		(uuid "203c465b-25d3-4329-ada5-09040e4210a0")
 		(at 181.384757 107.789999)
-		(property "Reference" "SW16"
+		(property "Reference" "SW15"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "1247afe7-011c-4173-b70c-20a8513dc899")
@@ -4385,7 +4385,7 @@
 		(layer "F.Cu")
 		(uuid "23deedb9-6375-4c25-8312-409ee915ae99")
 		(at 247.190659 134.214444 -10)
-		(property "Reference" "SW20"
+		(property "Reference" "SW22"
 			(at 0.5 -5.5 170)
 			(layer "B.SilkS")
 			(uuid "380d6f20-ff29-4f06-a8f3-6e74031795f9")
@@ -4518,7 +4518,7 @@
 			(uuid "99c3f53c-a34b-4d1b-ae50-01493fbb3626")
 		)
 		(fp_line
-			(start -6.250001 6)
+			(start -6.250002 6)
 			(end -6.25 1.4)
 			(stroke
 				(width 0.15)
@@ -4919,7 +4919,7 @@
 		)
 		(fp_line
 			(start -1.3 7.99)
-			(end -1.300001 3.6)
+			(end -1.300002 3.6)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -5128,7 +5128,7 @@
 			(uuid "455c5b75-8f15-4554-875e-11b833ee604a")
 		)
 		(fp_line
-			(start 1.7 7.820001)
+			(start 1.7 7.820003)
 			(end 1.7 3.99)
 			(stroke
 				(width 0.15)
@@ -5138,7 +5138,7 @@
 			(uuid "b179aeca-7ece-48f2-ae49-8c059d817a5a")
 		)
 		(fp_line
-			(start 1.85 7.660001)
+			(start 1.85 7.660002)
 			(end 1.85 4.13)
 			(stroke
 				(width 0.15)
@@ -5455,7 +5455,7 @@
 		(layer "F.Cu")
 		(uuid "25be1d15-01bf-4779-a16e-a0af92bcff50")
 		(at 143.10132 94.239999)
-		(property "Reference" "SW12"
+		(property "Reference" "SW7"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "3c89e0be-7917-4683-b151-2d96356ae2ed")
@@ -6990,7 +6990,7 @@
 		(layer "F.Cu")
 		(uuid "3e7e3cbb-693f-47ef-a406-be0e14f2a274")
 		(at 267.324757 139.359999 -20)
-		(property "Reference" "SW19"
+		(property "Reference" "SW23"
 			(at 0.5 -5.5 160)
 			(layer "B.SilkS")
 			(uuid "14580da8-2a0e-457c-83cd-802c59856cd5")
@@ -7674,7 +7674,7 @@
 		)
 		(fp_line
 			(start 0.95 8.2)
-			(end 0.95 3.600001)
+			(end 0.95 3.600002)
 			(stroke
 				(width 0.15)
 				(type solid)
@@ -8237,7 +8237,7 @@
 		(layer "F.Cu")
 		(uuid "4581a9a7-2dee-4a32-b5e0-f1f94e0d4181")
 		(at 219.774757 85.989999)
-		(property "Reference" "SW8"
+		(property "Reference" "SW11"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "82ad47e1-b3cf-4220-84c0-deb844ac9a4e")
@@ -9307,7 +9307,7 @@
 		(layer "F.Cu")
 		(uuid "46c35716-e48a-4d1e-833f-e41b3f9f82ce")
 		(at 200.584757 64.459999)
-		(property "Reference" "SW3"
+		(property "Reference" "SW4"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "00231d93-6d95-4927-89a8-6519d8a22844")
@@ -10377,7 +10377,7 @@
 		(layer "F.Cu")
 		(uuid "4a36178d-df68-4b80-9c23-a25fd8210364")
 		(at 238.954132 107.414999)
-		(property "Reference" "SW13"
+		(property "Reference" "SW18"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "8e695144-f370-47bb-be44-5295cec45cb3")
@@ -11447,7 +11447,7 @@
 		(layer "F.Cu")
 		(uuid "570fd748-0295-42e8-b7e8-c8c61c321fd8")
 		(at 219.774757 66.799999)
-		(property "Reference" "SW2"
+		(property "Reference" "SW5"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "459a461f-0dc5-4556-aa6c-dd394b1cb41a")
@@ -14690,7 +14690,7 @@
 		(layer "F.Cu")
 		(uuid "75289cec-d72f-4081-9c6b-6ca0b646dd48")
 		(at 181.384757 88.644999)
-		(property "Reference" "SW10"
+		(property "Reference" "SW9"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "cccae791-7db9-4c9c-8c7d-d03bf1849533")
@@ -15760,7 +15760,7 @@
 		(layer "F.Cu")
 		(uuid "797fc9c8-a7d6-4df7-9c89-c2cb015c00fd")
 		(at 143.10132 75.034999)
-		(property "Reference" "SW6"
+		(property "Reference" "SW1"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "5ede55f6-2037-4e2b-8d4f-0f0a4432071a")
@@ -17715,7 +17715,7 @@
 		(layer "F.Cu")
 		(uuid "9af43484-c0e4-43ce-b39f-e974547c9c4c")
 		(at 162.284757 75.034999)
-		(property "Reference" "SW5"
+		(property "Reference" "SW2"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "a86964bd-42dd-4ab7-bd36-357b4aea3789")
@@ -19139,7 +19139,7 @@
 		(layer "F.Cu")
 		(uuid "abd7c255-e41f-46a3-8070-4fa42ad7cad9")
 		(at 200.584757 83.649999)
-		(property "Reference" "SW9"
+		(property "Reference" "SW10"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "f6d9ec8c-a01f-46c0-b076-ab6a84a572a1")
@@ -20209,7 +20209,7 @@
 		(layer "F.Cu")
 		(uuid "ae224fcd-f2c9-4689-a6dc-49748bcb218f")
 		(at 181.384757 69.449999)
-		(property "Reference" "SW4"
+		(property "Reference" "SW3"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "5ed3771c-100f-46bf-a737-0734a68a95f5")
@@ -21279,7 +21279,7 @@
 		(layer "F.Cu")
 		(uuid "bbb7e7ea-3cdd-4444-ab27-772d34ca3b5f")
 		(at 143.10132 113.419999)
-		(property "Reference" "SW18"
+		(property "Reference" "SW13"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "3b12ebf4-569e-43c3-b434-4802e6782232")
@@ -22880,7 +22880,7 @@
 		(layer "F.Cu")
 		(uuid "cf435f69-b8c9-4315-a876-82385e57f896")
 		(at 162.284757 132.469999)
-		(property "Reference" "SW23"
+		(property "Reference" "SW19"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "62ec7334-7d44-40d7-95fe-601f56272611")
@@ -23950,7 +23950,7 @@
 		(layer "F.Cu")
 		(uuid "cfc79c6e-34bb-473f-9ad8-5db830307c93")
 		(at 238.954132 88.224999)
-		(property "Reference" "SW7"
+		(property "Reference" "SW12"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "14f5c7b9-0824-434e-8bb5-7b852ca2de5f")
@@ -25197,7 +25197,7 @@
 		(layer "F.Cu")
 		(uuid "e7f2070a-0323-4f4e-9401-776712d4bc16")
 		(at 238.954132 69.049999)
-		(property "Reference" "SW1"
+		(property "Reference" "SW6"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "756ba279-a7de-4c0a-9752-a2696d122bfc")
@@ -26267,7 +26267,7 @@
 		(layer "F.Cu")
 		(uuid "ecd686f9-bcfe-45a1-a65f-6ea07a11b1aa")
 		(at 162.284757 94.239999)
-		(property "Reference" "SW11"
+		(property "Reference" "SW8"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "e887d2f4-7de8-4fe4-91fe-ce55b8adeebf")
@@ -27337,7 +27337,7 @@
 		(layer "F.Cu")
 		(uuid "eec99961-e4fc-41f3-b693-dfe8534cc342")
 		(at 200.584757 102.814999)
-		(property "Reference" "SW15"
+		(property "Reference" "SW16"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "ed2af9f3-5409-454f-bbe4-507c3a8a4021")
@@ -28407,7 +28407,7 @@
 		(layer "F.Cu")
 		(uuid "efc54d89-b7c1-4080-9a00-124b2956d05b")
 		(at 219.774757 105.184999)
-		(property "Reference" "SW14"
+		(property "Reference" "SW17"
 			(at 0.5 -5.5 180)
 			(layer "B.SilkS")
 			(uuid "021cd6aa-cc62-43c1-b346-b283f8d33737")
