@@ -4727,7 +4727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NomadBall44:Kailh_Choc_V1_Hotswap_thin_via"
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 116.84 83.82 0)
 			(effects
 				(font
@@ -5108,7 +5108,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NomadBall44:XIAO-nRF52840-Plus-ver2"
+		(property "Footprint" "NomadBall44:XIAO-nRF52840-Plus-ver3"
 			(at 56.388 48.26 0)
 			(effects
 				(font
@@ -5567,7 +5567,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NomadBall44:Kailh_Choc_V1_Hotswap_thin_via"
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 135.89 83.82 0)
 			(effects
 				(font
@@ -6055,7 +6055,7 @@
 				)
 			)
 		)
-		(property "Footprint" "NomadBall44:Kailh_Choc_V1_Hotswap_thin_via"
+		(property "Footprint" "NomadBall44:Choc_v2_Hotswap_1u"
 			(at 154.94 83.82 0)
 			(effects
 				(font
