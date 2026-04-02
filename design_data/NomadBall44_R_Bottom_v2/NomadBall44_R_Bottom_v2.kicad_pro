@@ -465,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "NomadBall44_R_v2.kicad_pro",
+    "filename": "NomadBall44_R_Bottom_v2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -504,7 +504,7 @@
       "plot": "order/20260402/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "NomadBall44_R_v2.step",
+      "step": "NomadBall44_R_Bottom_v2.step",
       "svg": "",
       "vrml": ""
     },
