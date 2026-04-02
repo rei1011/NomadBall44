@@ -6895,7 +6895,7 @@
 		(uuid "3e7e3cbb-693f-47ef-a406-be0e14f2a274")
 		(at 267.324757 139.359999 -20)
 		(property "Reference" "SW23"
-			(at 0.5 -5.5 160)
+			(at 1.784679 -5.374518 160)
 			(layer "B.SilkS")
 			(uuid "14580da8-2a0e-457c-83cd-802c59856cd5")
 			(effects
