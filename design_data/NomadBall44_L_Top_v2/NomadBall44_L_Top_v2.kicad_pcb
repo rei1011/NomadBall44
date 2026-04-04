@@ -354,7 +354,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "NomadBall44:m2_Screw_Hole_EdgeCuts"
+	(footprint "NomadBall44:m2_Screw_Hole"
 		(layer "F.Cu")
 		(uuid "1a685f8d-6587-4731-8e8d-96c1d2224a65")
 		(at 152.664757 111.959999)
@@ -363,7 +363,6 @@
 		(property "Reference" "REF**"
 			(at 0 -3.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "e6a0adf2-b636-4011-b693-368f3c8a2754")
 			(effects
 				(font
@@ -375,7 +374,6 @@
 		(property "Value" "Val**"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "b015a89b-522f-4383-90b1-02b038bef97c")
 			(effects
 				(font
@@ -411,17 +409,28 @@
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
-			(end 1.1 0)
+			(end 2.2 0)
 			(stroke
-				(width 0.01)
+				(width 0.15)
 				(type solid)
 			)
 			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "b582043d-2797-4abb-8665-42c4bc3c5f96")
+			(layer "Cmts.User")
+			(uuid "f78bd120-ece0-42ea-9efc-b7d21b0f58ef")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "71bcdbe4-6ea5-4d20-88e9-3970bdeb3693")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0.3 0 0)
 			(layer "F.Fab")
 			(uuid "cdc30313-c6d3-4bdc-88aa-4befb6f61213")
 			(effects
@@ -430,6 +439,13 @@
 					(thickness 0.15)
 				)
 			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "bf2eccf1-d103-4dcb-a069-ea661e5587d1")
 		)
 		(embedded_fonts no)
 	)
@@ -709,7 +725,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "NomadBall44:m2_Screw_Hole_EdgeCuts"
+	(footprint "NomadBall44:m2_Screw_Hole"
 		(layer "F.Cu")
 		(uuid "32086bd1-4f3a-4afe-8efe-158b06a8a32a")
 		(at 230.714757 78.349999)
@@ -718,7 +734,6 @@
 		(property "Reference" "REF**"
 			(at 0 -3.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "175d1b90-47fd-4f2c-9be7-25ff02690eac")
 			(effects
 				(font
@@ -730,7 +745,6 @@
 		(property "Value" "Val**"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "3555216b-b227-4498-a27b-fc7ac15f2556")
 			(effects
 				(font
@@ -766,17 +780,28 @@
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
-			(end 1.1 0)
+			(end 2.2 0)
 			(stroke
-				(width 0.01)
+				(width 0.15)
 				(type solid)
 			)
 			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "aed0740e-9a07-46cd-a140-5ba1b7d2f632")
+			(layer "Cmts.User")
+			(uuid "3ab23316-efe1-49ff-8fe0-dba94c545108")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "bb7b9a17-3d56-4b17-97f9-1b8220f171ea")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0.3 0 0)
 			(layer "F.Fab")
 			(uuid "bc1827dc-732a-47d7-a88e-53775a185eec")
 			(effects
@@ -786,9 +811,16 @@
 				)
 			)
 		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "8e047f3c-d61f-4090-87b8-f77ec2309316")
+		)
 		(embedded_fonts no)
 	)
-	(footprint "NomadBall44:m2_Screw_Hole_EdgeCuts"
+	(footprint "NomadBall44:m2_Screw_Hole"
 		(layer "F.Cu")
 		(uuid "3415bc45-e88e-4139-9f92-9a67c20fdbea")
 		(at 190.98 62.67)
@@ -797,7 +829,6 @@
 		(property "Reference" "REF**"
 			(at 0 -3.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "4c430ac0-4be3-4e5f-ba3a-cbc13557eaab")
 			(effects
 				(font
@@ -809,7 +840,6 @@
 		(property "Value" "Val**"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "b4471f1f-3436-4813-aaa0-03dab50fd735")
 			(effects
 				(font
@@ -845,17 +875,28 @@
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
-			(end 1.1 0)
+			(end 2.2 0)
 			(stroke
-				(width 0.01)
+				(width 0.15)
 				(type solid)
 			)
 			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "db66fdf9-8965-4afa-b10d-08db3327f378")
+			(layer "Cmts.User")
+			(uuid "4ae9beb3-659a-499f-acd2-8e852557308b")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "304cb5aa-a9bd-4cdb-9f93-fa1a66340458")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0.3 0 0)
 			(layer "F.Fab")
 			(uuid "e75101e8-1664-47a0-8b5c-380c3d133df6")
 			(effects
@@ -864,6 +905,13 @@
 					(thickness 0.15)
 				)
 			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "7b1f7df1-2ee6-4a38-916d-add5d331ed91")
 		)
 		(embedded_fonts no)
 	)
@@ -1419,7 +1467,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "NomadBall44:m2_Screw_Hole_EdgeCuts"
+	(footprint "NomadBall44:m2_Screw_Hole"
 		(layer "F.Cu")
 		(uuid "59484229-0a97-47b2-b727-a9be0e8f7ac6")
 		(at 230.724757 97.829999)
@@ -1428,7 +1476,6 @@
 		(property "Reference" "REF**"
 			(at 0 -3.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "685e803f-2abb-4df7-9a84-07357d4a37cc")
 			(effects
 				(font
@@ -1440,7 +1487,6 @@
 		(property "Value" "Val**"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "779af3c7-6cba-47c5-a07a-7d0fab28dc97")
 			(effects
 				(font
@@ -1476,17 +1522,28 @@
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
-			(end 1.1 0)
+			(end 2.2 0)
 			(stroke
-				(width 0.01)
+				(width 0.15)
 				(type solid)
 			)
 			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "015ae858-0fde-432c-b432-aa9358e69b39")
+			(layer "Cmts.User")
+			(uuid "eb19d7a4-a614-4827-97e3-bb5bc2eff74d")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "5332335c-0b9e-40f7-b1d9-ee02048d007c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0.3 0 0)
 			(layer "F.Fab")
 			(uuid "af0bb5fc-d825-450e-aed4-1488d7dc5434")
 			(effects
@@ -1496,9 +1553,16 @@
 				)
 			)
 		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "e3ac6fc4-f04c-423d-bcee-b3eed5b1b738")
+		)
 		(embedded_fonts no)
 	)
-	(footprint "NomadBall44:m2_Screw_Hole_EdgeCuts"
+	(footprint "NomadBall44:m2_Screw_Hole"
 		(layer "F.Cu")
 		(uuid "6a467168-1bf3-499f-82f7-32330670ff15")
 		(at 190.98 119.59)
@@ -1507,7 +1571,6 @@
 		(property "Reference" "REF**"
 			(at 0 -3.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "7d7c9552-8318-417e-ad7a-7a1a9a3b2345")
 			(effects
 				(font
@@ -1519,7 +1582,6 @@
 		(property "Value" "Val**"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "3d993c36-5ddd-44de-8c4c-e62440f30559")
 			(effects
 				(font
@@ -1555,17 +1617,28 @@
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
-			(end 1.1 0)
+			(end 2.2 0)
 			(stroke
-				(width 0.01)
+				(width 0.15)
 				(type solid)
 			)
 			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "79b79560-3999-4a51-899e-aa2b3f7f3d15")
+			(layer "Cmts.User")
+			(uuid "9059d5a5-57b6-4cf6-9096-bbb88585d634")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "24c79a9b-02d6-49d9-85a3-74af9b0a155f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0.3 0 0)
 			(layer "F.Fab")
 			(uuid "8ca93d62-b8fb-4af3-8aa5-dc121bd51902")
 			(effects
@@ -1574,6 +1647,13 @@
 					(thickness 0.15)
 				)
 			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "bccc3fdf-fc7b-40c7-894e-a7f326547003")
 		)
 		(embedded_fonts no)
 	)
@@ -3233,7 +3313,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "NomadBall44:m2_Screw_Hole_EdgeCuts"
+	(footprint "NomadBall44:m2_Screw_Hole"
 		(layer "F.Cu")
 		(uuid "f5453890-f5f0-4068-9002-a811b62ef94d")
 		(at 152.724757 85.089999)
@@ -3242,7 +3322,6 @@
 		(property "Reference" "REF**"
 			(at 0 -3.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "801c5170-dcee-416b-af98-ce10e34f8649")
 			(effects
 				(font
@@ -3254,7 +3333,6 @@
 		(property "Value" "Val**"
 			(at 0 3.2 0)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "f3fc008c-e4b7-48ec-b1fd-bf72b073ba20")
 			(effects
 				(font
@@ -3290,17 +3368,28 @@
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
-			(end 1.1 0)
+			(end 2.2 0)
 			(stroke
-				(width 0.01)
+				(width 0.15)
 				(type solid)
 			)
 			(fill no)
-			(layer "Edge.Cuts")
-			(uuid "694fbc29-b009-47ba-b4aa-fb1b642463df")
+			(layer "Cmts.User")
+			(uuid "5cffe666-0e0a-4469-8fb8-4ebc9acf2489")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.45 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "4268ab36-9e23-48e5-ab2a-ec804db87aec")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0.3 0 0)
 			(layer "F.Fab")
 			(uuid "02b1cfae-d37a-4097-a014-face3de2689f")
 			(effects
@@ -3309,6 +3398,13 @@
 					(thickness 0.15)
 				)
 			)
+		)
+		(pad "" np_thru_hole circle
+			(at 0 0)
+			(size 2.2 2.2)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(uuid "9f6b809e-d0fc-4e48-9401-82b3b30a010c")
 		)
 		(embedded_fonts no)
 	)
